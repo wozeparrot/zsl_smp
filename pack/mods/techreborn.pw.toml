@@ -1,0 +1,13 @@
+name = "Tech Reborn"
+filename = "TechReborn-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3eMENr4V/versions/plFNm9Ks/TechReborn-6.1.0.jar"
+hash-format = "sha512"
+hash = "0ac960ef76f3e4495e3e4b03de7ac30681c41cecd24bf0998add0a5dd214c7245b7fc2ecacb8e78c7311427e6b27001611cdfa265d5c5add97434550171aa998"
+
+[update]
+[update.modrinth]
+mod-id = "3eMENr4V"
+version = "plFNm9Ks"

@@ -1,0 +1,13 @@
+name = "Gun Core"
+filename = "gun-core-V1.0.15-data+resource.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ti7LgRXJ/versions/4BPLwFY9/gun-core-V1.0.15-data%2Bresource.jar"
+hash-format = "sha512"
+hash = "d681b32a4d2b52a2536393d549b2172e6e68065858b1985e4a4cb906adc7d2a9737877c788425e5864a6160b5eda21fb6a6c08ba44f2dcc31c8cb8051f4783fb"
+
+[update]
+[update.modrinth]
+mod-id = "Ti7LgRXJ"
+version = "4BPLwFY9"

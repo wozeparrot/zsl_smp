@@ -1,0 +1,13 @@
+name = "BLAST"
+filename = "blast-1.13.9-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hrVBD9fd/versions/YeCXpbYS/blast-1.13.9-26.2.jar"
+hash-format = "sha512"
+hash = "590a361fbd3c05132449e0efa633910ddab49203762a702819b7d3d6b20d630c8d2143cd90ee71e27d423bb0b6fe56f4e9b88cbdc28e28e34c1847b5ffcf312f"
+
+[update]
+[update.modrinth]
+mod-id = "hrVBD9fd"
+version = "YeCXpbYS"

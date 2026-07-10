@@ -1,0 +1,13 @@
+name = "Zsl SMP"
+author = "wozeparrot"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9825771a04f6b420e82455515fcb7839e510e7d355426c7ed98fe7fa9c67623c"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

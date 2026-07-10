@@ -1,0 +1,13 @@
+name = "Copper Hopper"
+filename = "copperhopper-fabric-0.24.0+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mTI5Xg5F/versions/JEuhB8DQ/copperhopper-fabric-0.24.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "c3a7d2cbbee51de146d30bc8f75ec0f3c5da2428977c377d69f62294bc62e6ce711d206d89be5464ea59384025c9bb5a1aef9e10bba405c537170744ddbc45bf"
+
+[update]
+[update.modrinth]
+mod-id = "mTI5Xg5F"
+version = "JEuhB8DQ"

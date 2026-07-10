@@ -1,0 +1,13 @@
+name = "Energized Power"
+filename = "energizedpower-3.0.0-beta.7+26.2.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pku8gW1/versions/YqICbrlz/energizedpower-3.0.0-beta.7%2B26.2.x-fabric.jar"
+hash-format = "sha512"
+hash = "e921d3b4f4384db29294649a0b4bc28f4eeef2f0b89d86504a27302203c177b97b626556ec6193f093339df6b40bdc0b47f2a474145296e86424894720f1aae6"
+
+[update]
+[update.modrinth]
+mod-id = "6pku8gW1"
+version = "YqICbrlz"

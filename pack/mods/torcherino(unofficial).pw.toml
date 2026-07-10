@@ -1,0 +1,13 @@
+name = "Torcherino(Unofficial)"
+filename = "Torcherino-fabric-26.2-33.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrYJaijm/versions/wWU0FE9J/Torcherino-fabric-26.2-33.0.0.jar"
+hash-format = "sha512"
+hash = "0b175d1843282386338013db4d3628f084c37518d01c8862010263bc94a951b41408ef922267f34903dcb2d28f200fa3544b2e1e2c72f8251b43b2fa34e7fbe2"
+
+[update]
+[update.modrinth]
+mod-id = "nrYJaijm"
+version = "wWU0FE9J"

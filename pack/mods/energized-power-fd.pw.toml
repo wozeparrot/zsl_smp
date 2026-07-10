@@ -1,0 +1,13 @@
+name = "Energized Power - Farmer's Delight"
+filename = "energizedpowerfd-3.0.0-beta.4+26.2.x-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tfNnSImQ/versions/a2ALDEoA/energizedpowerfd-3.0.0-beta.4%2B26.2.x-fabric.jar"
+hash-format = "sha512"
+hash = "ab142c84bb74c06ce00f269bfacac0bed6e4079f06ec79114a11f7492c4fbe9a9b3304b8a66057051dd89984933fbaad4ff0abb94dcd69ea01d5a32dc4a2f4be"
+
+[update]
+[update.modrinth]
+mod-id = "tfNnSImQ"
+version = "a2ALDEoA"

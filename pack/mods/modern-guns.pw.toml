@@ -1,0 +1,13 @@
+name = "Modern Guns"
+filename = "modern-guns-V1.9.3-data.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufgOyMFr/versions/RmXgQSyP/modern-guns-V1.9.3-data.jar"
+hash-format = "sha512"
+hash = "c65bbd2cc2cf691e3412d89ed25edbbd006db43bb5ad97bf72476edd30cda1a8d2581784501d602971fa4e1a55d49a140f7fa2e361d0b43a2945c281d040d54a"
+
+[update]
+[update.modrinth]
+mod-id = "ufgOyMFr"
+version = "RmXgQSyP"

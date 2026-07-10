@@ -1,0 +1,13 @@
+name = "Additional Additions: Vanilla+ QoL, Sniffers, Music, Food"
+filename = "additionaladditions-fabric-10.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/HscbWbuL/additionaladditions-fabric-10.0.10.jar"
+hash-format = "sha512"
+hash = "cea79aa4839c718356db98b8b553f49c2fa7fb25d47159c1c064597db629809ab08a4e13b31f758d4f879b8f82e29c2fc21c0316119efc511789366988d51b4d"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "HscbWbuL"
