@@ -108,7 +108,7 @@
      * Roughly speaking, doubling this value will result in doubling the
      * acceleration.  Changing this may lead to undesirable behavior.
      */
-    'boostFactor' : 0.06,
+    'boostFactor' : 0.3,
 
     /**
      * Applies to the NEW physics model only.
@@ -116,7 +116,7 @@
      * Sets the scaling factor used to decelerate occupied minecarts.
      * Changing this may lead to undesirable behavior.
      */
-    'slowdownFactorOccupied' : 0.997,
+    'slowdownFactorOccupied' : 0.998,
 
     /**
      * Applies to the NEW physics model only.

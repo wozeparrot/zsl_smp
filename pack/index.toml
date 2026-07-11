@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/highspeed-rail.json5"
-hash = "ca42da90189e8e460a0cc4e2023deffbca8cc03db790d617b6c84507b782e73f"
+hash = "a0f900ffb4b1c77610da652f16e585bf9de07de165e15255f5137e8741c45ca5"
 
 [[files]]
 file = "global_packs/required_data/material_unification/data/energizedpower/loot_table/blocks/deepslate_tin_ore.json"
