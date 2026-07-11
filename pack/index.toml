@@ -408,6 +408,11 @@ hash = "5850906239573942c8a06d6c3a8c2a25f9e28977b7075a25f23303acda4e681b"
 metafile = true
 
 [[files]]
+file = "mods/highspeed-rail.pw.toml"
+hash = "12a6e1422a0b44bda404d3436214e1f9876b7ee488f9581679800c20910fc182"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "41437a15f56b00994815f2bd2371ac84232cd7a1cc29688fe81480b44a935447"
 metafile = true
