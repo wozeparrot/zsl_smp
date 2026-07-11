@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/highspeed-rail.pw.toml"
-hash = "12a6e1422a0b44bda404d3436214e1f9876b7ee488f9581679800c20910fc182"
+hash = "8700c1d4c26519db57563e9db8fb26f85ac0030542016f5540949d5a33f4a343"
 metafile = true
 
 [[files]]

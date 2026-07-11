@@ -1,6 +1,6 @@
 name = "High-Speed Rail"
 filename = "highspeed-rail-fabric-0.24.0+26.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/UnL9JxtC/highspeed-rail-fabric-0.24.0%2B26.2.jar"
