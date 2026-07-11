@@ -462,6 +462,11 @@ hash = "c434b295f1eba271b629c2976a022c56ee0986f46a7dad59f99ed916d3a915cd"
 metafile = true
 
 [[files]]
+file = "mods/lava-boats.pw.toml"
+hash = "4f113910843d88510aeabaded1b21bb5668b9081ee305e9bb9937751d592368b"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "a03bc03c304dbf24952d51fb768c85fd227dfc45a8b38dc26d5c8053e54ae168"
 metafile = true
