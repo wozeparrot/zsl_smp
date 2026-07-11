@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2d5a3d"/>
+      <stop offset="50%" stop-color="#1e3d2a"/>
+      <stop offset="100%" stop-color="#0f1f15"/>
+    </linearGradient>
+    <linearGradient id="grass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5fb84a"/>
+      <stop offset="100%" stop-color="#3a8a2e"/>
+    </linearGradient>
+    <linearGradient id="dirt" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6b4f2f"/>
+      <stop offset="100%" stop-color="#4a3620"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#000" flood-opacity="0.6"/>
+    </filter>
+    <filter id="textshadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="256" height="256" rx="24" fill="url(#bg)"/>
+
+  <!-- Grass block strip at top -->
+  <rect x="48" y="28" width="160" height="32" rx="4" fill="url(#grass)" filter="url(#shadow)"/>
+  <rect x="48" y="56" width="160" height="20" rx="0" fill="url(#dirt)" filter="url(#shadow)"/>
+  <!-- Grass texture pixels -->
+  <rect x="56" y="32" width="8" height="4" fill="#6fc855" opacity="0.6"/>
+  <rect x="72" y="30" width="6" height="4" fill="#6fc855" opacity="0.5"/>
+  <rect x="100" y="34" width="8" height="3" fill="#4a9e38" opacity="0.5"/>
+  <rect x="130" y="31" width="6" height="4" fill="#6fc855" opacity="0.5"/>
+  <rect x="160" y="33" width="8" height="3" fill="#4a9e38" opacity="0.4"/>
+  <rect x="184" y="30" width="6" height="4" fill="#6fc855" opacity="0.5"/>
+  <!-- Dirt texture pixels -->
+  <rect x="60" y="62" width="6" height="5" fill="#5a3f25" opacity="0.5"/>
+  <rect x="90" y="65" width="5" height="4" fill="#7a5f3f" opacity="0.4"/>
+  <rect x="120" y="62" width="6" height="5" fill="#5a3f25" opacity="0.5"/>
+  <rect x="150" y="66" width="5" height="4" fill="#7a5f3f" opacity="0.4"/>
+  <rect x="180" y="63" width="6" height="5" fill="#5a3f25" opacity="0.5"/>
+
+  <!-- ZSL text -->
+  <text x="128" y="150" font-family="Noto Sans, sans-serif" font-size="72" font-weight="900"
+        fill="#ffffff" text-anchor="middle" dominant-baseline="middle"
+        letter-spacing="-2" filter="url(#textshadow)">ZSL</text>
+
+  <!-- SMP text -->
+  <text x="128" y="200" font-family="Noto Sans, sans-serif" font-size="32" font-weight="700"
+        fill="#5fb84a" text-anchor="middle" dominant-baseline="middle"
+        letter-spacing="6" filter="url(#textshadow)">SMP</text>
+
+  <!-- Decorative border accent -->
+  <rect x="12" y="12" width="232" height="232" rx="16" fill="none" stroke="#5fb84a" stroke-width="2" opacity="0.3"/>
+</svg>

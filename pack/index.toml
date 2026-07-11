@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.svg"
+hash = "f030e4b4ffc52e85cddff7ba266babe5f2e4710829809cdbbb7a9a6deb93ad1b"
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "cbedae588bd40573d0de9fd87b90c66948a7052430883c4284e9d9c8a92a15de"
 metafile = true
@@ -356,11 +360,6 @@ hash = "2c69879bd658f8d39e5b41964c483a5c841c21edb85b141511ea9d25f3b68fcf"
 metafile = true
 
 [[files]]
-file = "mods/ubes-delight.pw.toml"
-hash = "90af2584ee1a8f9318fdd46bebcba202d4a2486a790b3be6cd8aeea2e58d9e13"
-metafile = true
-
-[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "0dd38a0386671eaf47fc8d0566025453debaa3917dd76fab5c57afb057259d20"
 metafile = true
@@ -384,3 +383,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "da2b918e1ae55d1073b87bfc3236f37d106f80e0e295e99d374642f35531ada8"
 metafile = true
+
+[[files]]
+file = "pack.png"
+hash = "a6090126755a18fb914f3d82a2595894dc8275099685eda123aad61c57b01caa"
