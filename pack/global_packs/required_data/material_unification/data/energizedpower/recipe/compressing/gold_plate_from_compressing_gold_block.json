@@ -1,0 +1,10 @@
+{
+  "type": "energizedpower:compressor",
+  "ingredient": {
+    "ingredient": "#c:storage_blocks/gold"
+  },
+  "result": {
+    "count": 9,
+    "id": "techreborn:gold_plate"
+  }
+}

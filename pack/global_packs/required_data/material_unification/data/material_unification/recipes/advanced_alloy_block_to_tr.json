@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:advanced_alloy_block"
+  ],
+  "result": {
+    "id": "techreborn:advanced_alloy_storage_block"
+  }
+}

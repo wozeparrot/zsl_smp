@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:steel_block"
+  ],
+  "result": {
+    "id": "techreborn:steel_storage_block"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:charcoal_dust"
+  ],
+  "result": {
+    "id": "techreborn:charcoal_dust"
+  }
+}

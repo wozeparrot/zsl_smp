@@ -1,6 +1,254 @@
 hash-format = "sha256"
 
 [[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/loot_table/blocks/deepslate_tin_ore.json"
+hash = "923ae90bd129334f5e00eedbd6d805eebb4ba844ea5c5fe3f6eaf4b3f181ad3b"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/loot_table/blocks/tin_ore.json"
+hash = "3cbc0066edd08d7967aaa56c3ef93a57f255c80c1bbde7ddf02025cbc0d89e9f"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/alloy_furnace/advanced_alloy_ingot.json"
+hash = "ac83dc1380746298c95305ce2e319a259b79bfb207bad21a84158ad90383de47"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/alloy_furnace/steel_ingot.json"
+hash = "81889e4cc5846ed521405b0bc0834c9b2148df176eb32455b0c33f84068974de"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/blasting/tin_ingot_from_blasting_raw_tin.json"
+hash = "afb188d77627b47107cef5b7c075b0ff9b6804e44de5502473cf3591ad2b23bd"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/blasting/tin_ingot_from_blasting_tin_dust.json"
+hash = "78221dbba267bc0a8baa19cb9921134f7d2a6a93e0c157cfa08e599d98c15e0a"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/blasting/tin_ingot_from_blasting_tin_ores.json"
+hash = "3f41fd792727f82ce3489bdf20a006557a3a6a61cd610defe9f9c539e71221f1"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/advanced_alloy_plate_from_compressing_advanced_alloy_block.json"
+hash = "45065df856a9399de8740e81b0db0dbc28d0b31a50f35e6cad9d85bd1d19bd0d"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/advanced_alloy_plate_from_compressing_advanced_alloy_ingot.json"
+hash = "9067d12a9aab38e7f2e4cc56f2df752e6c7b0e0caf6f0fb20e4fd97a0697f01f"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/copper_plate_from_compressing_copper_block.json"
+hash = "ef9de3ae892cb18248f220cbd3dfde791cb42feef93bc4a0bafb0e6992186050"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/copper_plate_from_compressing_copper_ingot.json"
+hash = "61d0b7f864710ee5027f494e68d1be4b92a8749e5f859e2e4f18b7d85536df3f"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/gold_plate_from_compressing_gold_block.json"
+hash = "3698293ed370476139a34924183c2fab33265a6874b46aaa4e0699b7ff1e355c"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/gold_plate_from_compressing_gold_ingot.json"
+hash = "05f1caf5e7c57c87ca1ca8dd542db56ee6b208abacc8280834664f380095fc4c"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/iron_plate_from_compressing_iron_block.json"
+hash = "f37a8d1b1766815caf6f14d7bebcc50adf7dc1efe955091ad1b5a598496a9f3b"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/iron_plate_from_compressing_iron_ingot.json"
+hash = "d23f2a4fe1c3325e081349a582f4e9fea0aac56f54ed4505e60a0da2d55df553"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/steel_plate_from_compressing_steel_block.json"
+hash = "2ea929847922d924f1d5779e26a408e49eca2087fde223180a336d7867ec24ed"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/steel_plate_from_compressing_steel_ingot.json"
+hash = "7ca7c5fb4fe990fbee5fe4ef9649f898c6e8f2227b6cfcfb58a21fdebfe665e9"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/tin_plate_from_compressing_tin_block.json"
+hash = "5841e8ebe3047ad8cac36dae621e202b02c6059ba0fcb95b18fae7d37eb8da69"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/compressing/tin_plate_from_compressing_tin_ingot.json"
+hash = "4ae88a5968c6ea69c31c40e18e590d1469efb373695bcf5cdbceb3dfc1db9892"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/advanced_alloy_block.json"
+hash = "02662ce2fea4783a1ac999e6b120b927429cd9b4e561054250b23fdb5c194613"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/advanced_alloy_ingot.json"
+hash = "99cce84c7fa89cda0ba681582723b6dfc839ac8c01a1f361c79c9115fd0f2035"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/copper_plate.json"
+hash = "285313c1c3e039d9c0085dcd2179becdcf894c1515563299d02fd8f706c4f62e"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/gold_plate.json"
+hash = "d9cde22981606cd24cbd1d31658dc90bbfae7df21194815be0f6cb104eee29a0"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/iron_plate.json"
+hash = "1f395743f3dfcd28b7c2b1cef3ca949a589ba2fec14bdd797104ea5cede29e06"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/raw_tin.json"
+hash = "0594f693645187b4cebc8776b5fef88ccb7095af7c6cb357484d95797c74d0d4"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/raw_tin_block.json"
+hash = "279125d513002d03137b8af18b6fd7a94974a2a5ab2cc0175a9354709c719091"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/steel_block.json"
+hash = "ac0d9828feb068e3df75bb8aab71c6eeda2ae870b700b02e7417e9e0bf978d14"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/steel_ingot_from_nuggets.json"
+hash = "731f6ad0da9a2f73730bcf9dd7a4178745c2c757630869cb11dd3dee38460e8b"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/steel_ingot_from_steel_block.json"
+hash = "c6716d17493eaab7bb51b8d825a75270cfdb113d73ca7838a4dbf1ee5cfb5561"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/steel_nugget.json"
+hash = "5ed6e0a15822b63cef59be4d78a69dfbc3688332bfcd4adefd42fed26f7beb22"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/steel_plate.json"
+hash = "eaa14a0f4efc5be99ebc3122650fbcc551a538a88668b2d4935ddf28637afb5a"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/tin_block.json"
+hash = "31d2d44cf2b133d9a18a7a0fd9a6d5829d89759559e0f869983d999d074d32f9"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/tin_ingot_from_nuggets.json"
+hash = "0a3db970415cadfb683fb97ac837949511b121277046c6d1b04ab8b150390e5a"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/tin_ingot_from_tin_block.json"
+hash = "aca2ebed2ab7f00930f6d4f61d90348af5fff854f291c0173e8e173ee7eb1967"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/tin_nugget.json"
+hash = "89918837486fa095a4aaaf1fab49febc3f86ff66e71906c035a427ab28772e0d"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/crafting/tin_plate.json"
+hash = "049940fa35de9fb7f674217a65d85c52a4eb2f05ba939e33b0e9dfff4bc0f9cd"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/filtration_plant/tin_ore_filtration.json"
+hash = "9ca0a33aa98d06815936ac45030280f37cb7a5bb1677aef5b85fb60170e825a6"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/pulverizer/charcoal_dust_from_pulverizer_charcoal.json"
+hash = "08cb10d28afbff32639691f5e427a3fc3312a97d02ba48d20ec9fbb5965d2da9"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/smelting/tin_ingot_from_smelting_raw_tin.json"
+hash = "900e22ceeab1dec3bfb1750a9219fa4ecf35e8b20bab38483d488b4b08662460"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/smelting/tin_ingot_from_smelting_tin_dust.json"
+hash = "7370e024f4e1835f4b1149f25cf1e9210ca4b332da14a862475b54e670c6899d"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/recipe/smelting/tin_ingot_from_smelting_tin_ores.json"
+hash = "1e7bd43adab8f01666c7b5d22be01c5c76f00a78cb51d33647ff6706efe4f5c8"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/energizedpower/worldgen/placed_feature/tin_ore.json"
+hash = "295b7d0e594f4de16932afa32abc6efd3ce0a079dc3efd21852f91effb08be34"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/advanced_alloy_block_to_tr.json"
+hash = "9649b6a5c0eebac6da21053ac3406e8d6cdccc060727748af630e33a13f18fcf"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/advanced_alloy_ingot_to_tr.json"
+hash = "33fd82d77c6af23270d5ff494ebce658bcbff53ee982650325895a2f8ee02903"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/advanced_alloy_plate_to_tr.json"
+hash = "74249f9a743b5f7da99094556229fcdba42699a329a4c07a3f8f645e7890796d"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/charcoal_dust_to_tr.json"
+hash = "f1a72ab972f274aa3c13beb90221646e99b7964aa14a9de55271bde578bd6c7c"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/copper_plate_to_tr.json"
+hash = "b0807a357bc666d96f146ea1391c0440c0fe7168ec054b586db7483a07f12059"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/deepslate_tin_ore_to_tr.json"
+hash = "ac9d420bc3aa41501c3b218843420905ec506da08b7b56b5db630c0bf349e6b0"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/gold_plate_to_tr.json"
+hash = "53b016b042e46b81a8a911d7d3f884d41261e5064947b70ffe59dd893b725810"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/iron_plate_to_tr.json"
+hash = "2faec3a8a9a2c278e2b0be9dc1efc94d66e7977a4b3901de2cbb4d88731096d9"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/raw_tin_block_to_tr.json"
+hash = "e479daeb3bb1e080d146a16ffd7a7722b433769cf2fed54b8833dc12bf5ffa89"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/raw_tin_to_tr.json"
+hash = "044552d58c205274014f67b4b999890c6f4932c6ae18693e1aa3d230a0013edf"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/steel_block_to_tr.json"
+hash = "6aae7b13722ecf8dace750514e10e61280c9d079a7b7775cb603620550882725"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/steel_ingot_to_tr.json"
+hash = "fed7d06430d86966de36ca0d15474528ae102bcb7a7b5e449385357d249748c3"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/steel_nugget_to_tr.json"
+hash = "aa87300e58c5ead83b27b3d8ab4cc56560cb6eb8de2584b16f475d35ae74cbce"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/steel_plate_to_tr.json"
+hash = "b6b8d40e81812150adce8e7b9f847c1333b620d90aa0e849f70342f5b9dbdf97"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/tin_block_to_tr.json"
+hash = "b7237e3ab20d92ac10f476694873c409e85beecd027799a76e9b38bbc4446be6"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/tin_ingot_to_tr.json"
+hash = "6365c1a705e05afcb8b242b3ddd7155eca0b2eb6e7b037de80fbda18f4ba73e1"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/tin_nugget_to_tr.json"
+hash = "b44294369fc727bb0e49d73f942484a8fe52084b23c2c217c9d51b926efcd74a"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/tin_ore_to_tr.json"
+hash = "effd011319059e0e2c2eed66aa3c00adb72fb4a3d796f87070ec2e1a4711284c"
+
+[[files]]
+file = "global_packs/required_data/material_unification/data/material_unification/recipes/tin_plate_to_tr.json"
+hash = "69b129f50fc565ec04008e11f1b2962aeab41e1ba24f7b80de948562af981816"
+
+[[files]]
+file = "global_packs/required_data/material_unification/pack.mcmeta"
+hash = "35be1112e410d593f112a71e28e9b14cc77abb6a4a020dc9515f0e19fb4a4f90"
+
+[[files]]
 file = "icon.svg"
 hash = "f030e4b4ffc52e85cddff7ba266babe5f2e4710829809cdbbb7a9a6deb93ad1b"
 
@@ -147,6 +395,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "71b95730b7f292ff81a5dc19a4830dc7d1fb464be24c92acaccb12ca630f5b15"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "5992dc72bc5b304c0632c19ca3caf01fa39f88cb6cb6e02f46034cb27f2b20a8"
 metafile = true
 
 [[files]]

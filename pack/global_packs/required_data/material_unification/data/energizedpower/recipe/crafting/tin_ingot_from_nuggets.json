@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tin_ingot",
+  "key": {
+    "#": "#c:nuggets/tin"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "techreborn:tin_ingot"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:tin_ore"
+  ],
+  "result": {
+    "id": "techreborn:tin_ore"
+  }
+}

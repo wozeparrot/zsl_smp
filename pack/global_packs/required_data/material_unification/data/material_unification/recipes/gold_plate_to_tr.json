@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:gold_plate"
+  ],
+  "result": {
+    "id": "techreborn:gold_plate"
+  }
+}

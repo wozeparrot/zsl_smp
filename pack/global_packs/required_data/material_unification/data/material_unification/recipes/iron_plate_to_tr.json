@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:iron_plate"
+  ],
+  "result": {
+    "id": "techreborn:iron_plate"
+  }
+}

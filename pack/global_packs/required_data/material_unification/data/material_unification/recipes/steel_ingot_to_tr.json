@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:steel_ingot"
+  ],
+  "result": {
+    "id": "techreborn:steel_ingot"
+  }
+}

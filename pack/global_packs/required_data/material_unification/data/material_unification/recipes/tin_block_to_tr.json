@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "energizedpower:tin_block"
+  ],
+  "result": {
+    "id": "techreborn:tin_storage_block"
+  }
+}
