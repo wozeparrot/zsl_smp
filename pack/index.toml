@@ -190,6 +190,11 @@ hash = "07503941da49b4a52e47c0691bcc014f5ff2e35ad31e4d7bec274d4b2050069f"
 metafile = true
 
 [[files]]
+file = "mods/jline4mcdsrv.pw.toml"
+hash = "9a5daab5b79c2708fe83ffa8b1d0a6e5b024ec382c8819b3abf464f28b55ae43"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "c434b295f1eba271b629c2976a022c56ee0986f46a7dad59f99ed916d3a915cd"
 metafile = true
