@@ -116,7 +116,7 @@
      * Sets the scaling factor used to decelerate occupied minecarts.
      * Changing this may lead to undesirable behavior.
      */
-    'slowdownFactorOccupied' : 0.99999,
+    'slowdownFactorOccupied' : 0.9999,
 
     /**
      * Applies to the NEW physics model only.
