@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:smelting",
-  "experience": 0.7,
-  "group": "tin_ingot",
-  "ingredient": "#c:raw_materials/tin",
-  "result": {
-    "id": "techreborn:tin_ingot"
-  }
-}

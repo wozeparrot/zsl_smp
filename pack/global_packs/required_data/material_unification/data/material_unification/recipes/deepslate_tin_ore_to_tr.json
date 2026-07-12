@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "energizedpower:deepslate_tin_ore"
-  ],
-  "result": {
-    "id": "techreborn:deepslate_tin_ore"
-  }
-}

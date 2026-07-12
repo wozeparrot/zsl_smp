@@ -1,9 +1,0 @@
-{
-  "type": "energizedpower:compressor",
-  "ingredient": {
-    "ingredient": "#c:ingots/copper"
-  },
-  "result": {
-    "id": "techreborn:copper_plate"
-  }
-}

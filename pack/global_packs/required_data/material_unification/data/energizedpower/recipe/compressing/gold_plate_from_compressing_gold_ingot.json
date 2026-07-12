@@ -1,9 +1,0 @@
-{
-  "type": "energizedpower:compressor",
-  "ingredient": {
-    "ingredient": "#c:ingots/gold"
-  },
-  "result": {
-    "id": "techreborn:gold_plate"
-  }
-}

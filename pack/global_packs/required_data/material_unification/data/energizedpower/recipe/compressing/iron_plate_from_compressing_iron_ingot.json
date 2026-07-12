@@ -1,9 +1,0 @@
-{
-  "type": "energizedpower:compressor",
-  "ingredient": {
-    "ingredient": "#c:ingots/iron"
-  },
-  "result": {
-    "id": "techreborn:iron_plate"
-  }
-}

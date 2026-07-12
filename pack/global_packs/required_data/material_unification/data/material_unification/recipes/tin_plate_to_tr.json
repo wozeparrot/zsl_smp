@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    "energizedpower:tin_plate"
-  ],
-  "result": {
-    "id": "techreborn:tin_plate"
-  }
-}

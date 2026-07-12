@@ -1,9 +1,0 @@
-{
-  "type": "energizedpower:compressor",
-  "ingredient": {
-    "ingredient": "#c:ingots/tin"
-  },
-  "result": {
-    "id": "techreborn:tin_plate"
-  }
-}

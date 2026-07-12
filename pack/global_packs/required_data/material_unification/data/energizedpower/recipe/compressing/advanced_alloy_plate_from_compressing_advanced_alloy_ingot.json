@@ -1,9 +1,0 @@
-{
-  "type": "energizedpower:compressor",
-  "ingredient": {
-    "ingredient": "#c:ingots/advanced_alloy"
-  },
-  "result": {
-    "id": "techreborn:advanced_alloy_plate"
-  }
-}
