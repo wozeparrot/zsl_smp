@@ -19,5 +19,5 @@ ignoreMonstersWhenNotAngry = false
 
 [wakingUp]
 healthRestored = 20
-hungerConsumed = -40
+hungerConsumed = -20
 alwaysResetWeatherCycle = true
