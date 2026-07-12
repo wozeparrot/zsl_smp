@@ -296,11 +296,6 @@ hash = "22f36251da77c4b8bcc9572de2b12aff30317637d8321d918264dfbf51e2ce1d"
 metafile = true
 
 [[files]]
-file = "mods/blast.pw.toml"
-hash = "14575b42053aa9e54c0f11abb98e7507df33928fa965eb329207e2530d1b6092"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "159b583e8e5fa6934327438d3eb072777617bb1862c59f816ae9806e6d53e14b"
 metafile = true
@@ -361,16 +356,6 @@ hash = "424b81a3b5b7334385a223c726c734df2a1b31646c15a708c8e964c0266a9752"
 metafile = true
 
 [[files]]
-file = "mods/energized-power-fd.pw.toml"
-hash = "f22a1592438f427dcd9bd2d90ddb87b82137d2fa111089af28a7b0ab8ebfee7b"
-metafile = true
-
-[[files]]
-file = "mods/energized-power.pw.toml"
-hash = "f039154951d64b62563a300224fb739a9bc134f2c2c7ac52bbb004598425a182"
-metafile = true
-
-[[files]]
 file = "mods/entangled.pw.toml"
 hash = "bd1d5b9e4c0aec1a850b6d99a1b34d334ccea99efcc8cca70d0cdacf2cddcdc6"
 metafile = true
@@ -421,11 +406,6 @@ hash = "5992dc72bc5b304c0632c19ca3caf01fa39f88cb6cb6e02f46034cb27f2b20a8"
 metafile = true
 
 [[files]]
-file = "mods/gun-core.pw.toml"
-hash = "5850906239573942c8a06d6c3a8c2a25f9e28977b7075a25f23303acda4e681b"
-metafile = true
-
-[[files]]
 file = "mods/highspeed-rail.pw.toml"
 hash = "8700c1d4c26519db57563e9db8fb26f85ac0030542016f5540949d5a33f4a343"
 metafile = true
@@ -448,11 +428,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
-metafile = true
-
-[[files]]
-file = "mods/item-collectors.pw.toml"
-hash = "53da8641f17337ddc985f3f40499c9447df079f9a5f8b854d472af7a6912f7d9"
 metafile = true
 
 [[files]]
@@ -503,11 +478,6 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "09810fca32fe0ef88987b60c6aeac290d8ae2463988e77c164011b09756e1845"
-metafile = true
-
-[[files]]
-file = "mods/modern-guns.pw.toml"
-hash = "bc88fb455fb8c1e09d0c4c0ca57171cf065687f096c350353124875e4b0e40a2"
 metafile = true
 
 [[files]]
@@ -631,16 +601,6 @@ hash = "808265b6a9effdca0a30721dc99133dd499baa517862aaaee500e464dc48e5f9"
 metafile = true
 
 [[files]]
-file = "mods/techreborn.pw.toml"
-hash = "ed939d4eb1e70974132e73377f8de99e5320b224fa387f1efe499a1e595dddb2"
-metafile = true
-
-[[files]]
-file = "mods/tesseract.pw.toml"
-hash = "1dc357dce95db6e0bfff14f9857f239b9451e961d9bd88815c9a7043d6e058ce"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "e8cec101a97d1a74eca186f2fac5a3d31851a747db6c840ec36fdd0b75e4a055"
 metafile = true
@@ -648,11 +608,6 @@ metafile = true
 [[files]]
 file = "mods/torcherino(unofficial).pw.toml"
 hash = "77b80b4265518857120a453a0919b1270e7b53a52d5c5e2e7f83b8306febbb4c"
-metafile = true
-
-[[files]]
-file = "mods/trash-cans.pw.toml"
-hash = "7698493970ae0fd56daf1d4c127bb2df5034a9deeb140e3959515e8952251502"
 metafile = true
 
 [[files]]
@@ -678,11 +633,6 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
-metafile = true
-
-[[files]]
-file = "mods/wormhole.pw.toml"
-hash = "661e2e9763dc7e9004111b18504bdf6418569ab5748e6ff40649636934aafe8d"
 metafile = true
 
 [[files]]
