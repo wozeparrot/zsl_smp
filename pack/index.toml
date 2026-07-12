@@ -10,7 +10,7 @@ hash = "8af86ca9783b443ca1fbd3abf94495e59a0a145155bd7198890de9d6505e18c1"
 
 [[files]]
 file = "config/letmesleep-server.toml"
-hash = "09b6939315fa8fdaf9fbb7ac97d1d8ad7ac3f74b6b28fa06e3509330435e963a"
+hash = "37accbb7a6964e484bce87e4f351079b89eaf83c0e70d65482c91c509bb2ac3f"
 
 [[files]]
 file = "icon.svg"
