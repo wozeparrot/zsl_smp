@@ -1,0 +1,13 @@
+name = "Unlimited Enchantments"
+filename = "unlimited-enchantments-1.2+26.2-fabric-quilt.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5JZ1rVU6/versions/ooKpRISm/unlimited-enchantments-1.2%2B26.2-fabric-quilt.jar"
+hash-format = "sha512"
+hash = "946d921d771cacf514e4612ab595ac03ba484b6d7d561c52e569ce3db7dee4a3c60d1c367010e4d770ded49330d432b236dfca7e23c949cf0397fc94e4150014"
+
+[update]
+[update.modrinth]
+mod-id = "5JZ1rVU6"
+version = "ooKpRISm"

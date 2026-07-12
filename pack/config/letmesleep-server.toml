@@ -1,0 +1,23 @@
+# Let Me Sleep - server config
+# Sleep mechanics disabled to avoid conflict with Better Days.
+# Wake-up healing is kept enabled.
+
+[goingToSleep]
+instantSleeping = false
+allowSleepingDuringRain = false
+
+[goingToSleep.bedChecks]
+removeRangeCheck = false
+removeObstructionCheck = false
+removeMonstersNearbyCheck = false
+
+[goingToSleep.nearbyMonsters]
+revealNearbyMonsters = false
+ignorePersistentMonsters = false
+ignoreMonstersOutsideOfReach = false
+ignoreMonstersWhenNotAngry = false
+
+[wakingUp]
+healthRestored = 20
+hungerConsumed = -40
+alwaysResetWeatherCycle = true

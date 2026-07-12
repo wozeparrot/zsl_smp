@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carpet/scripts/quick_insert.sc"
-hash = "65c84278392338286a5530a5d4f425c4e120081be0fa08fc6518154105b165f9"
+hash = "e2e4f52d51d9ef4bee3cf6d136046edb1dcec2721f759f9bf819d39175986be5"
 
 [[files]]
 file = "config/highspeed-rail.json5"
-hash = "b3fa885542eb355e2bf002517bca7aa234450b42a0245a2a9e0173c253559d83"
+hash = "8af86ca9783b443ca1fbd3abf94495e59a0a145155bd7198890de9d6505e18c1"
+
+[[files]]
+file = "config/letmesleep-server.toml"
+hash = "918876e61f73053024394622a44201fe282a0e2dff7db038c671bcc3513e28bb"
 
 [[files]]
 file = "icon.svg"
@@ -48,6 +52,11 @@ hash = "4ab40e685aa3735d0b522fae4f3d65d3cdd9466b059dd1a2fe787abd588cbba9"
 metafile = true
 
 [[files]]
+file = "mods/betterdays.pw.toml"
+hash = "38efbf2d06510f97352ed354afd1bca287fa2dd4f2092f496295542127d12661"
+metafile = true
+
+[[files]]
 file = "mods/blaha-replushed.pw.toml"
 hash = "22f36251da77c4b8bcc9572de2b12aff30317637d8321d918264dfbf51e2ce1d"
 metafile = true
@@ -78,6 +87,11 @@ hash = "7fa9592b9948b8809018a4e7c3ca7da4d19fc5ef8c03021414cb22ae0253f083"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "3e4d788583a36e9d145407fadce148f037e5229bff430f7dcd281d4d426c9ee6"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "8b3bbd261c8e3692775873b9c470cb6f7c9a21d96a3eac7a3e7ff7bc8b39ba32"
 metafile = true
@@ -105,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "998f43db75a7593f0628afeef8365bcad6ab94316988598b0d914930ccf076a2"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "0527624ddafeb54dee9724eb4f34907ee940f567b92a8f60f39063a7d3b09d8b"
 metafile = true
 
 [[files]]
@@ -238,6 +257,11 @@ hash = "d6f10b74ff36acbbd50240c01ac43823c146798a01e7b16eda3a5a4be4b50692"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "ba94a17a0bd27dd4c6eb5b19277dd07125385677b08bd2b1ad576f7e128667ac"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "8869f77dfbc37e83dc0d0ea34fcaaa1faf235dff008767a444b68ede8ca7390d"
 metafile = true
@@ -245,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
+metafile = true
+
+[[files]]
+file = "mods/pandaleadbreak.pw.toml"
+hash = "b08e788013d71bf7ce14f66dbf232b8e2341a5b259178d90569bcf27f53adf43"
 metafile = true
 
 [[files]]
@@ -290,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fda2f23dc5a311460c9a277922fbb94ccfd6adbde2b74cc395a467f51523b90f"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "838dc0acc3c1519c5dbfd102b4984cfd3926b6a3b04f4bb8f1d4e3c3a4191416"
 metafile = true
 
 [[files]]
@@ -363,6 +397,16 @@ hash = "0dd38a0386671eaf47fc8d0566025453debaa3917dd76fab5c57afb057259d20"
 metafile = true
 
 [[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "3273f94ceb55b0b0280964c517e936311040fc497eb5492d2d4cc6554e78e392"
+metafile = true
+
+[[files]]
+file = "mods/unlimited-enchantments.pw.toml"
+hash = "801709911ccd52ae5ff550302a404443cb86f9779e913f4418cf072d6a4d7a17"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "93e9e9d96cc2aceebf8625a7a893071f81011f54bf14e4ca802f4b41723184c0"
 metafile = true
@@ -370,6 +414,21 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "f79e3d2b134a1a9d3c6e4d62789d2e71d64b99e4ffe57bb987d41038012f2a3d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "0657d32dde561e8e4e111414831a5c4e979593b1c581bec6202fefef12cfe657"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "cd66e19fc7101a0e42dc76ed488ad24957af39778c74c2c9366c6bf55475e10c"
 metafile = true
 
 [[files]]

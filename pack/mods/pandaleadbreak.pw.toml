@@ -1,0 +1,13 @@
+name = "Panda Lead Break"
+filename = "panda-lead-break-1.0.0+26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/U70bU2rq/versions/viUUpc9y/panda-lead-break-1.0.0%2B26.2.jar"
+hash-format = "sha512"
+hash = "a77097eb5f33404ea55173b3e81b62519bd34a492965d733997d41f48f2b4e049077854f6c93221a88d43dc46ce37b07791a8ff5a38aedf65aea8d960aa6f359"
+
+[update]
+[update.modrinth]
+mod-id = "U70bU2rq"
+version = "viUUpc9y"
