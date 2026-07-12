@@ -99,7 +99,7 @@
      * going in excess of 40,000 bps but have also led to game crashes.
      * Exceed 1000 at your own risk.
      */
-    'maxSpeed' : 10000,
+    'maxSpeed' : 200,
 
     /**
      * Applies to the NEW physics model only.
