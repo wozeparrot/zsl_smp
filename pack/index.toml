@@ -266,6 +266,11 @@ hash = "cbedae588bd40573d0de9fd87b90c66948a7052430883c4284e9d9c8a92a15de"
 metafile = true
 
 [[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "b467878953fbd1e057b6d4184ef8b2c1bd2804396f45dc3a8641e7dd506ddd62"
+metafile = true
+
+[[files]]
 file = "mods/advancements-fullscreen.pw.toml"
 hash = "a7048dd21dc88a67f576bcfc8c60c0e5420882eb02ba6acc34930118f128385d"
 metafile = true
@@ -421,11 +426,6 @@ hash = "976e876d0974eefcb9f274e01689b1030803284cc5cb85d3a5f4620af281dcfd"
 metafile = true
 
 [[files]]
-file = "mods/integrated-circuit.pw.toml"
-hash = "e8e1526e723fb3c1c00f88e11fed3fee5090fac2baa3ced890cf879c10d7fe42"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
@@ -448,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "c434b295f1eba271b629c2976a022c56ee0986f46a7dad59f99ed916d3a915cd"
-metafile = true
-
-[[files]]
-file = "mods/lava-boats.pw.toml"
-hash = "4f113910843d88510aeabaded1b21bb5668b9081ee305e9bb9937751d592368b"
 metafile = true
 
 [[files]]
@@ -563,16 +558,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
 hash = "a693011f2ae201d579b6a445a6020c1565b37b95f1bb5dd0aa6913a2f665ec7c"
-metafile = true
-
-[[files]]
-file = "mods/stacked-blocks-farmers-delight.pw.toml"
-hash = "b49cac1a0382c8d7cffcf4c2424239ebed6a5efd7bda7ef98ad7446c473b70e1"
-metafile = true
-
-[[files]]
-file = "mods/stacked-blocks.pw.toml"
-hash = "7e6778cf8393d9a557f9f58168fa7d3c5818f6a40598bf9af44bed55d44ef0c5"
 metafile = true
 
 [[files]]
