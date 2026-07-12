@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/carpet/scripts/quick_insert.sc"
+hash = "65c84278392338286a5530a5d4f425c4e120081be0fa08fc6518154105b165f9"
+
+[[files]]
 file = "config/highspeed-rail.json5"
 hash = "cd01e574feaa68e4192b7b1872c60392fbb13bd92fdc28bf702d7d8347692504"
 
@@ -262,6 +266,11 @@ hash = "cbedae588bd40573d0de9fd87b90c66948a7052430883c4284e9d9c8a92a15de"
 metafile = true
 
 [[files]]
+file = "mods/advancements-fullscreen.pw.toml"
+hash = "a7048dd21dc88a67f576bcfc8c60c0e5420882eb02ba6acc34930118f128385d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
@@ -377,6 +386,11 @@ hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "aa33cb41c810c66e39c6fcea071fca1c6f8a6eaf63ecbea473f81a2708c6641a"
 metafile = true
@@ -467,6 +481,11 @@ hash = "4f113910843d88510aeabaded1b21bb5668b9081ee305e9bb9937751d592368b"
 metafile = true
 
 [[files]]
+file = "mods/let-me-sleep-fuzs.pw.toml"
+hash = "a36336b0827fcf7b64e8dd1864fb736ae2c88d93609d9366182635dc7289dd88"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "a03bc03c304dbf24952d51fb768c85fd227dfc45a8b38dc26d5c8053e54ae168"
 metafile = true
@@ -474,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "d655305d7933a11ed9c0c8edb57868c053b9c995c121c00b47061cf0e098c92a"
+metafile = true
+
+[[files]]
+file = "mods/ly-veinminer-enchantment.pw.toml"
+hash = "0dac23fc650834bae3235d9801a22c93dbd0f982169c72465661f2716a50d16f"
 metafile = true
 
 [[files]]
@@ -557,6 +581,11 @@ hash = "e8e263c9e5b45ef826911470c4b07405012d8f43f77214f59e56690f7731e299"
 metafile = true
 
 [[files]]
+file = "mods/smelting-enchantment.pw.toml"
+hash = "c541f84f31384683ba4eadeddd56aed5e0d1cdd3bc62f3b86ff75b1edf8826ae"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
 metafile = true
@@ -609,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "1dc357dce95db6e0bfff14f9857f239b9451e961d9bd88815c9a7043d6e058ce"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "e8cec101a97d1a74eca186f2fac5a3d31851a747db6c840ec36fdd0b75e4a055"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Advancements Fullscreen"
+filename = "advancements_fullscreen-2.0.1+fabric-mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7BgsROit/versions/CzA0RGY5/advancements_fullscreen-2.0.1%2Bfabric-mc26.2.jar"
+hash-format = "sha512"
+hash = "75bb482f6fbb08dbc0979f5bd4bca659ff7f45baf4fe698ec5228abc3e9c1d13c0d053427226e5ca0a5ba63142a62ac0e173f12b585597c76799ea7e482e4979"
+
+[update]
+[update.modrinth]
+mod-id = "7BgsROit"
+version = "CzA0RGY5"

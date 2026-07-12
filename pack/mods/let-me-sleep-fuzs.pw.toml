@@ -1,0 +1,13 @@
+name = "Let Me Sleep"
+filename = "LetMeSleep-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KK4HJa9m/versions/ucSgYkoa/LetMeSleep-v26.2.0-mc26.2.x-Fabric.jar"
+hash-format = "sha512"
+hash = "2d5080c645ceab347b869a145c88e541254d490288746ebd9f4c9547b6f1321fd05661376f8dcd424a38c87896ab0789163befaa51aac3dbd4a3a6487e9d9641"
+
+[update]
+[update.modrinth]
+mod-id = "KK4HJa9m"
+version = "ucSgYkoa"
