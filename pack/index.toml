@@ -380,11 +380,6 @@ hash = "41437a15f56b00994815f2bd2371ac84232cd7a1cc29688fe81480b44a935447"
 metafile = true
 
 [[files]]
-file = "mods/infinite-trading.pw.toml"
-hash = "976e876d0974eefcb9f274e01689b1030803284cc5cb85d3a5f4620af281dcfd"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
