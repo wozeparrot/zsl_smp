@@ -415,6 +415,11 @@ hash = "0dac23fc650834bae3235d9801a22c93dbd0f982169c72465661f2716a50d16f"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "3e3579fd25d754d370b4740c7fb1a06f62de8dc35043c9774ac9210f3151f5da"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "09810fca32fe0ef88987b60c6aeac290d8ae2463988e77c164011b09756e1845"
 metafile = true
@@ -437,6 +442,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "8869f77dfbc37e83dc0d0ea34fcaaa1faf235dff008767a444b68ede8ca7390d"
+metafile = true
+
+[[files]]
+file = "mods/new-linked-chests.pw.toml"
+hash = "dd6b789dfb4be85a5e8027d83c4c27c924f47d9381208ab62128a4e23be3d4da"
 metafile = true
 
 [[files]]
