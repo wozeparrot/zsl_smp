@@ -13,6 +13,174 @@ file = "config/letmesleep-server.toml"
 hash = "37accbb7a6964e484bce87e4f351079b89eaf83c0e70d65482c91c509bb2ac3f"
 
 [[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/aqua_affinity.json"
+hash = "7891558814f8eeda757dad2d8e808e5adca1c76dbb8855438277338acf64d14f"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/bane_of_arthropods.json"
+hash = "69bf48a1d28e3dfd5893385fbc49ef2decc818e9f0f2b522ee26711d8d3fe519"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/blast_protection.json"
+hash = "732d8c9603e556b8045fb91e78c258cb1a464e4c1acf0f104645f531b64ce986"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/breach.json"
+hash = "1b0dea1d19670d30eff5ac145da3f0061903588f6eb77426e9defd89a9a3b2e8"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/channeling.json"
+hash = "8c3601cd73dab4bf02575aa73045311e7bf8555a0881203173e0aa8cbc370256"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/density.json"
+hash = "4d5ca20123e8305df11a8ea730c84220a198b7728a7b9892c3ae9a2ff5a4b5c2"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/depth_strider.json"
+hash = "f1e8666b30a91116c2aaba512ab5558890bc9a6bb4212908007bcd65e8459b23"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/efficiency.json"
+hash = "f13ca0085d714fc679e378cfb973db2c7399c41d7a9fce15f7b59db99b84f8b6"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/feather_falling.json"
+hash = "f2145c991b8732823b97103e3b2b8d5fbc5160841228a59c19200778caf23eba"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/fire_aspect.json"
+hash = "bc6ee5ca8a9da7d1f461a029ab82582de747a5b7d29efc25e8f085bfef1216a0"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/fire_protection.json"
+hash = "84715b40f69ff77ac17327dacb59a176841d5668236516f788d33bbf1cb89eff"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/flame.json"
+hash = "338003454b39a365100cf1e8962917dd62659185ecc7d8655743ab287223e40b"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/fortune.json"
+hash = "befe0640de88b703acb0ab6ca1e134ed123a4149ea975286a21a136e2b6b6dde"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/frost_walker.json"
+hash = "168214a338726eb8a533c4a0098709bfa81badeb5dd4b86b4e26489aeacbc632"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/impaling.json"
+hash = "350795f094e4737c151c9f97524b821664d4f175d4c694c8c8e5c5c0e8f36d0f"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/infinity.json"
+hash = "d9d5a277e8372b2ab6b959d8a8a7cb9d2cd1b1e66596226f838232a108c78154"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/knockback.json"
+hash = "94f577ea1bbedea355240d1dc2f6510acccaec4544293d2d6942da4cfb2eed0d"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/looting.json"
+hash = "bb2dddaf6f50bbd8c3027647b3d70ad95ff4afa37cb2f66ca4c4a4ae304ba83a"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/loyalty.json"
+hash = "bc658f3e3b239c91d7ab7ab7d5f3396c3c10c8c4f752133dd29685cf8f8f8ccf"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/luck_of_the_sea.json"
+hash = "380a584b4ee7e081ac82084132b86ac54508e0f5642c306966446d25d26e17c2"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/lunge.json"
+hash = "fc64d675d9422333c599f440fc75bb687716386f5894fb682ceea93fa6aa1903"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/lure.json"
+hash = "3d48544206678e865517962ffbe7ec97ea847e8b549087c6ede116786aa1ae6c"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/mending.json"
+hash = "68a6f0c5a989b52d9bc4d82fc687a4714ea5d945204c2c961317282471120726"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/multishot.json"
+hash = "b675e37e5032539a32bf8a2982c8369f649437e6cd742083066574b9547f9849"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/piercing.json"
+hash = "eac713de30110c79bbca22a62413d85ff612b8507be5b9d5941ac4f7066ddd76"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/power.json"
+hash = "3e1c0f726e621bb58117d3dfd94cc65722d7d20f13a6ea7c21ba3857b2aae92a"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/projectile_protection.json"
+hash = "e658b4104dcba2050c5dccb2961fb2b8496a1c0e31f8f0467947453cd9057688"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/protection.json"
+hash = "fc48d24768fe055e6388a28b5f39a1be3670c8cb21940876955a69f7dba83fad"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/punch.json"
+hash = "6c8324d0043db3f0b4a68d41b57b273b824ed0c30c4925efb1345d8b7fef3ee1"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/quick_charge.json"
+hash = "42b5d1c71861eb4661187cc3f0d79fafb93e918701c31baa0b3d204ec3574ee5"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/respiration.json"
+hash = "0df74ff372364c78855bef1c35991b24216b9c722c2e62e15e9ac6ddb07a97bd"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/riptide.json"
+hash = "6fce2ef404c566951ca07128f0445e27c6e5d082bc1b23875dc0f48d28c6e2d4"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/sharpness.json"
+hash = "6280ce41c4cc1f37a2408c909cadeb75ea979c8f68430ca9cee5fcafd10f88d1"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/silk_touch.json"
+hash = "e539a002ab7ddccfc62421e54cc49a9274055b3df6eb94e1eb224a2dfb0e487c"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/smite.json"
+hash = "8501511250044f5b87bfec090c4c3ea110f7f6d1d213c767f9d30a3ba2468e9c"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/soul_speed.json"
+hash = "cc207b3f3b3ecb404fdd39cfb6bfd1396ad2d49b3fbfe238e8a437f6763845c2"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/sweeping_edge.json"
+hash = "6f663230ebb3dfab3a7244cbee46976b410827c27b957432755deda78744ac79"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/swift_sneak.json"
+hash = "d3a6f47688b0d79582c33cb0cc3e48578555fccb933ab71b2d89078af0f93539"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/thorns.json"
+hash = "6cc3c6a2654348471a02ed70e31e0f7ce7ef1470be4fa911edf0692f8b4c27da"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/unbreaking.json"
+hash = "a314ad7a4e59e32b5264b9ce5deb87a01981d16603a7eccf6845dae9380804bf"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/wind_burst.json"
+hash = "1f8e6290410bccc2bae851da245f54d30b3d9209a554e2b6e96819f92a199a2d"
+
+[[files]]
+file = "global_packs/required_data/higher_max_enchants/pack.mcmeta"
+hash = "111936b95d946e8638b41c57c1e05b8cc4191be03f3319142f485e850d75bd61"
+
+[[files]]
 file = "icon.svg"
 hash = "f030e4b4ffc52e85cddff7ba266babe5f2e4710829809cdbbb7a9a6deb93ad1b"
 
@@ -404,11 +572,6 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "3273f94ceb55b0b0280964c517e936311040fc497eb5492d2d4cc6554e78e392"
-metafile = true
-
-[[files]]
-file = "mods/unlimited-enchantments.pw.toml"
-hash = "801709911ccd52ae5ff550302a404443cb86f9779e913f4418cf072d6a4d7a17"
 metafile = true
 
 [[files]]
