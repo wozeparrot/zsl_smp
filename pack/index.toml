@@ -13,7 +13,7 @@ file = "config/letmesleep-server.toml"
 hash = "37accbb7a6964e484bce87e4f351079b89eaf83c0e70d65482c91c509bb2ac3f"
 
 [[files]]
-file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/functions/load.mcfunction"
+file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/function/load.mcfunction"
 hash = "1c5f6f735c68471ad1a6e386d6ab33602d61a48a7b5672a1014a0bcda6d3c52c"
 
 [[files]]
