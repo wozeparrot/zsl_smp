@@ -13,6 +13,18 @@ file = "config/letmesleep-server.toml"
 hash = "37accbb7a6964e484bce87e4f351079b89eaf83c0e70d65482c91c509bb2ac3f"
 
 [[files]]
+file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/functions/load.mcfunction"
+hash = "1c5f6f735c68471ad1a6e386d6ab33602d61a48a7b5672a1014a0bcda6d3c52c"
+
+[[files]]
+file = "global_packs/required_data/carpet_defaults/data/minecraft/tags/function/load.json"
+hash = "6ef81f32b3236c45074a36680e1101dd25722640d18bc661bd2c664d01ba28e2"
+
+[[files]]
+file = "global_packs/required_data/carpet_defaults/pack.mcmeta"
+hash = "f8249949decd1dc8fb48bf38f025c233854f6880e4d0ca38640ec30dac5028eb"
+
+[[files]]
 file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/aqua_affinity.json"
 hash = "7891558814f8eeda757dad2d8e808e5adca1c76dbb8855438277338acf64d14f"
 
@@ -250,6 +262,11 @@ hash = "f30fbb71a6fc5f4beedbc0ecc7847cc137d634c2e5e46bb174e6a1a82f8775a8"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "f10e9eaa369a132fe062800b47741d0106e87ef7c8b6a433ef89547d0f35b0de"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c5ed17434b9f7fa4daa641963566cd3337e1617957d8e77f52d3cb03aafb3b1a"
 metafile = true
@@ -472,11 +489,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "00129db538fe3591d87ba64731ca1f9daf3e538185657ee0fcf56b52f0715e5b"
-metafile = true
-
-[[files]]
-file = "mods/pandaleadbreak.pw.toml"
-hash = "b08e788013d71bf7ce14f66dbf232b8e2341a5b259178d90569bcf27f53adf43"
 metafile = true
 
 [[files]]
