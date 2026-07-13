@@ -235,6 +235,21 @@ hash = "159b583e8e5fa6934327438d3eb072777617bb1862c59f816ae9806e6d53e14b"
 metafile = true
 
 [[files]]
+file = "mods/carpet-ams-addition.pw.toml"
+hash = "b88d310171574b0df8e0a26b1704edf29cdc0b9d08b5dfe5aa8577459a1d6ffd"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "d497e965378f29c5546cb85403af0f3b274e0bfa07f55a5f5a6f51e68f362e29"
+metafile = true
+
+[[files]]
+file = "mods/carpet-org-addition.pw.toml"
+hash = "f30fbb71a6fc5f4beedbc0ecc7847cc137d634c2e5e46bb174e6a1a82f8775a8"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "c5ed17434b9f7fa4daa641963566cd3337e1617957d8e77f52d3cb03aafb3b1a"
 metafile = true
@@ -277,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "0fd256b27b9baaa240af790376b852efbced1d357ea8b4bc324aa835d6dcbc58"
+metafile = true
+
+[[files]]
+file = "mods/crystalcarpetaddition.pw.toml"
+hash = "894b5b918bf0ab2e823dc943733c7e22bd686311a8b842afc32f6b75caa9ca25"
 metafile = true
 
 [[files]]
