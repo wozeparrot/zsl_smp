@@ -1,7 +1,7 @@
 // quick_insert.sc
 // Punch (left-click) a container with an item to insert one item inside.
 // Works with any block that has slots: chests, furnaces, modded machines, etc.
-// Empty hand = break normally. Full inventory = break normally.
+// Empty hand = break normally. Holding a tool = break normally. Full inventory = break normally.
 
 __config() -> {
     'scope' -> 'global',
@@ -14,6 +14,8 @@ __on_player_clicks_block(player, block, face) -> (
     if (held == null, return(null));
 
     [item_name, count, nbt] = held;
+
+    if (_is_tool(item_name), return(null));
 
     size = inventory_size(block);
     if (size == null, return(null));
@@ -28,6 +30,36 @@ __on_player_clicks_block(player, block, face) -> (
     ,
         return(null);
     );
+);
+
+_is_tool(item_name) -> (
+    if (item_tags(item_name, 'pickaxes') == true, return(true));
+    if (item_tags(item_name, 'axes') == true, return(true));
+    if (item_tags(item_name, 'shovels') == true, return(true));
+    if (item_tags(item_name, 'hoes') == true, return(true));
+    if (item_tags(item_name, 'swords') == true, return(true));
+    return(item_name == 'shears' ||
+           item_name == 'flint_and_steel' ||
+           item_name == 'fishing_rod' ||
+           item_name == 'bow' ||
+           item_name == 'crossbow' ||
+           item_name == 'shield' ||
+           item_name == 'trident' ||
+           item_name == 'spyglass' ||
+           item_name == 'brush' ||
+           item_name == 'compass' ||
+           item_name == 'recovery_compass' ||
+           item_name == 'clock' ||
+           item_name == 'goat_horn' ||
+           item_name == 'lead' ||
+           item_name == 'name_tag' ||
+           item_name == 'writable_book' ||
+           item_name == 'written_book' ||
+           item_name == 'enchanted_book' ||
+           item_name == 'bundle' ||
+           item_name == 'saddle' ||
+           item_name == 'horse_armor' ||
+           item_name == 'totem_of_undying');
 );
 
 _insert_item(block, size, item_name, nbt, block_name) -> (

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carpet/scripts/quick_insert.sc"
-hash = "e2e4f52d51d9ef4bee3cf6d136046edb1dcec2721f759f9bf819d39175986be5"
+hash = "e6b21764a88a71488b3702486e4e933df594625ae0b0c44174ec9eb05cc4102a"
 
 [[files]]
 file = "config/highspeed-rail.json5"
@@ -22,7 +22,7 @@ hash = "6ef81f32b3236c45074a36680e1101dd25722640d18bc661bd2c664d01ba28e2"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/pack.mcmeta"
-hash = "f8249949decd1dc8fb48bf38f025c233854f6880e4d0ca38640ec30dac5028eb"
+hash = "be0bc367ae85da88c244840670e895af5187585d40124e7b097103c3cae04a83"
 
 [[files]]
 file = "global_packs/required_data/higher_max_enchants/data/minecraft/enchantment/aqua_affinity.json"
@@ -190,7 +190,7 @@ hash = "1f8e6290410bccc2bae851da245f54d30b3d9209a554e2b6e96819f92a199a2d"
 
 [[files]]
 file = "global_packs/required_data/higher_max_enchants/pack.mcmeta"
-hash = "111936b95d946e8638b41c57c1e05b8cc4191be03f3319142f485e850d75bd61"
+hash = "9eb0c1bbf51fecb3cfcb2e7931a0e0f801539f40ab9fb87bfc17e9a6c52f5556"
 
 [[files]]
 file = "icon.svg"
