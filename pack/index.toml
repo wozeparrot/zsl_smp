@@ -222,6 +222,11 @@ hash = "c434b295f1eba271b629c2976a022c56ee0986f46a7dad59f99ed916d3a915cd"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "cc60dc47e6965f1565ffd068b07d09d1e4598e58e941d134eecd668e08905d42"
+metafile = true
+
+[[files]]
 file = "mods/let-me-sleep-fuzs.pw.toml"
 hash = "a36336b0827fcf7b64e8dd1864fb736ae2c88d93609d9366182635dc7289dd88"
 metafile = true
