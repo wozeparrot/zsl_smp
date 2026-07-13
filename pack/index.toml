@@ -585,6 +585,11 @@ hash = "808265b6a9effdca0a30721dc99133dd499baa517862aaaee500e464dc48e5f9"
 metafile = true
 
 [[files]]
+file = "mods/timber-enchantment.pw.toml"
+hash = "0a2f49f77ce5da724ef47712e84019d3dee1c9f595d5314e8c43ffd7570711f8"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "e8cec101a97d1a74eca186f2fac5a3d31851a747db6c840ec36fdd0b75e4a055"
 metafile = true
