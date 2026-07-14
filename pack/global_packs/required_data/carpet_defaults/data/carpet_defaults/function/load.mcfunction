@@ -52,6 +52,10 @@ carpet rottenFleshBurnedIntoLeather true
 # (add rules here)
 carpet setDefault villagerHeal true
 carpet villagerHeal true
+carpet setDefault damageEnchantmentCompatible true
+carpet damageEnchantmentCompatible true
+carpet setDefault protectionEnchantmentCompatible true
+carpet protectionEnchantmentCompatible true
 
 # --- Carpet Extra Extras ---
 carpet setDefault carpetBotsSkipNight true

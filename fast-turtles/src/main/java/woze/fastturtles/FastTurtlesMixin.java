@@ -10,26 +10,26 @@ public class FastTurtlesMixin {
 
     @ModifyConstant(method = "updateAnimation", constant = @Constant(intValue = 8), require = 1)
     private int modifyAnimDurationInt(int original) {
-        return 2;
+        return 1;
     }
 
     @ModifyConstant(method = "updateAnimation", constant = @Constant(floatValue = 8.0f), require = 0)
     private float modifyAnimDurationFloat(float original) {
-        return 2.0f;
+        return 1.0f;
     }
 
     @ModifyConstant(method = "updateAnimation", constant = @Constant(floatValue = 0.125f), require = 0)
     private float modifyPushStep(float original) {
-        return 0.5f;
+        return 1.0f;
     }
 
     @ModifyConstant(method = "getAnimationFraction", constant = @Constant(floatValue = 8.0f), require = 1)
     private float modifyAnimDurationFraction(float original) {
-        return 2.0f;
+        return 1.0f;
     }
 
     @ModifyConstant(method = "playAnimation", constant = @Constant(intValue = 4), require = 0)
     private int modifyShortWaitProgress(int original) {
-        return 1;
+        return 0;
     }
 }
