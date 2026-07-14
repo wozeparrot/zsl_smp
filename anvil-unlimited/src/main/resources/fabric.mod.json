@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "anvil-unlimited",
+  "version": "${version}",
+  "name": "Anvil Unlimited",
+  "description": "Remove enchantment max level cap during anvil combining only. Villager trades and loot tables are unaffected.",
+  "authors": ["woze"],
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "26.2"
+  },
+  "mixins": [
+    "anvilunlimited.mixins.json"
+  ]
+}
