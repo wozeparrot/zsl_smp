@@ -19,6 +19,8 @@
       devShell.x86_64-linux = pkgs.mkShell {
         packages = with pkgs; [
           packwiz
+          jdk25
+          gradle_9
         ];
       };
     };

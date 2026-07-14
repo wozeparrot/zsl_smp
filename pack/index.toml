@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-turtles-1.0.0.jar"
-hash = "7b40182fdd287c9ef29cb4ac89553f6476b4176626dae55f1ea697391ba5efa1"
+hash = "44750e6da2b7e6154dcde356799ba5878b4ee7e01a91976cc21f325911857a29"
 
 [[files]]
 file = "mods/faster-hopper.pw.toml"
