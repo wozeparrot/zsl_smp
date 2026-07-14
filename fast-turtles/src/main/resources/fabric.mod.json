@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "fast-turtles",
+  "version": "${version}",
+  "name": "Fast Turtles",
+  "description": "Reduces CC: Tweaked turtle movement animation duration from 8 ticks to 2 ticks, making turtles move 4x faster.",
+  "authors": ["woze"],
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "26.2"
+  },
+  "mixins": [
+    "fastturtles.mixins.json"
+  ]
+}

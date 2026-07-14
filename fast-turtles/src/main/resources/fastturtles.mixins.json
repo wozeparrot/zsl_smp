@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "woze.fastturtles",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "FastTurtlesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
