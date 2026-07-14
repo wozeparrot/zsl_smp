@@ -1,0 +1,13 @@
+name = "Carpet Extra Extras"
+filename = "carpet-extra-extras-26.2-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2O3YTVOd/versions/PT74plaL/carpet-extra-extras-26.2-1.4.1.jar"
+hash-format = "sha512"
+hash = "2c8ef73ea9a2027bc6489288310f1afd507823f021e4205f4842741ee6615b27cc58da593fb4095e665806bd810a269d64dc7023ce478751e43830df873d3afc"
+
+[update]
+[update.modrinth]
+mod-id = "2O3YTVOd"
+version = "PT74plaL"

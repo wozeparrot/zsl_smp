@@ -52,3 +52,7 @@ carpet rottenFleshBurnedIntoLeather true
 # (add rules here)
 carpet setDefault villagerHeal true
 carpet villagerHeal true
+
+# --- Carpet Extra Extras ---
+carpet setDefault carpetBotsSkipNight true
+carpet carpetBotsSkipNight true

@@ -1,20 +1,112 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "1cef37ba4063092a04e4ae19b06b4584eae4b6211152e845d8da8a33b2c7cad0"
+
+[[files]]
 file = "config/carpet/scripts/quick_insert.sc"
 hash = "e6b21764a88a71488b3702486e4e933df594625ae0b0c44174ec9eb05cc4102a"
+
+[[files]]
+file = "config/computercraft-server.toml"
+hash = "b8b7f56c395abb103e1fddb20b720f55996789027b5b9f9e990e6187b079e0e5"
+
+[[files]]
+file = "config/construction_wand.conf"
+hash = "d02a682ba3062815f076f940c5fd8e330f043350db140b988a916121aa8dff4b"
+
+[[files]]
+file = "config/copperhopper.properties"
+hash = "bb2b57115755ec89d0b5e7785e51e378fc0e6706cc0005a11a80a096d6199c42"
+
+[[files]]
+file = "config/cropsloverain.toml"
+hash = "e466ea969cdb21a3c9caa0986e168270140374223bc99c5e15a18cbb4c67212f"
+
+[[files]]
+file = "config/easyanvils-server.toml"
+hash = "9a6cc5b0248c2b04fab1751e44c0ffe4d38549f575e67790651414335ca19cd4"
+
+[[files]]
+file = "config/eclipsestweakeroo-server.json"
+hash = "9f639cb8e8041346b9bf9883921d0611cad0764ca9fab0c05549bc17254f9710"
+
+[[files]]
+file = "config/entangled-common.toml"
+hash = "40f5071dbd2be4101c54d04e059bc6af1aa8c984656486672542c0b964f33c69"
+
+[[files]]
+file = "config/extended_drawers.json"
+hash = "e64a7aacc29a1872af8ba6f958946a8384295ec3d403b3e0f3ffe514f9ccb359"
+
+[[files]]
+file = "config/farmersdelight-common.json"
+hash = "5b3c25e0df91027a19b9f3d40e441dc7490799f71f5179c7d6c45083831fd062"
+
+[[files]]
+file = "config/global_packs.toml"
+hash = "4092599e1a5164040f48851df8c3cd9a4c9f2ae02cf0bb241ef672538f5b29c1"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "9af27370d9e1c7992306c038bbbcfd92604c5eed71bd987d4c90b40a60ddce00"
 
 [[files]]
 file = "config/highspeed-rail.json5"
 hash = "8af86ca9783b443ca1fbd3abf94495e59a0a145155bd7198890de9d6505e18c1"
 
 [[files]]
+file = "config/leavesbegone-server.toml"
+hash = "474161c3e49b737d546d059b044c2e5555ca92b38b4517b461ee477e80e396e6"
+
+[[files]]
 file = "config/letmesleep-server.toml"
 hash = "37accbb7a6964e484bce87e4f351079b89eaf83c0e70d65482c91c509bb2ac3f"
 
 [[files]]
+file = "config/linkedchests-server.toml"
+hash = "b95f49006d8cd7bdecba6e85de75abf2091fba7522058c84e10e1c0d92ce3dbe"
+
+[[files]]
+file = "config/magnumtorch-server.toml"
+hash = "14b7f4fac0b97409147777514f65729d3cccb3330e2536eb101dd178d0e61bb1"
+
+[[files]]
+file = "config/rusticdelight.json"
+hash = "61917aeab047a66e6f43704e3c2f464228731d94541fb2c49774725ff3f1d489"
+
+[[files]]
+file = "config/sci4me/Torcherino.cfg"
+hash = "a242119a478d8a69fc142887aa4285e0e90ea27f5d7bfffa57a21c7f67e3c2b7"
+
+[[files]]
+file = "config/squatgrow-common.json5"
+hash = "a6145ba8de77e2696d2cacfd95e4c61d12bc3d23ee089bf1663be24b520f07d9"
+
+[[files]]
+file = "config/taxfreelevels.json"
+hash = "e88ba0a6886553af4e056750fe9ea9cc26bfd979f2d7ba2f55841cdd2cc1318e"
+
+[[files]]
+file = "config/toms_storage.json"
+hash = "8d5a734825a31b106bb2be0b3a6cd4349e9649931bb2f86c43c2b920aa8a0c3c"
+
+[[files]]
+file = "config/universalbonemeal-server.toml"
+hash = "f4c2d00c2ccf0d5fd664121ed45e6d940d3308d2dd21cf860005f6b09c6b6439"
+
+[[files]]
+file = "config/universalenchants-server.toml"
+hash = "d349163ea578c6beb37762f7ec5374766bd4c542f6cc64e8432998f6aebbf019"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "cbbff702fc604ec39254c62c7f44ab9908db507f83653b06d97dc23d04798143"
+
+[[files]]
 file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/function/load.mcfunction"
-hash = "1c5f6f735c68471ad1a6e386d6ab33602d61a48a7b5672a1014a0bcda6d3c52c"
+hash = "69ae6083cda9def6002db807f3fae5aa412056aebf8d4bc71914a933059fa903"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/data/minecraft/tags/function/load.json"
@@ -42,6 +134,10 @@ metafile = true
 file = "mods/advancements-fullscreen.pw.toml"
 hash = "a7048dd21dc88a67f576bcfc8c60c0e5420882eb02ba6acc34930118f128385d"
 metafile = true
+
+[[files]]
+file = "mods/anvil-unlimited-1.0.0.jar"
+hash = "24d4afdba41d46a0b3007ec5ae2e1776f477e7fc022408be5d758afb4945fcd7"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -81,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
 hash = "b88d310171574b0df8e0a26b1704edf29cdc0b9d08b5dfe5aa8577459a1d6ffd"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra-extras.pw.toml"
+hash = "1f48ff3f6bd69384d11f3123876d69c39274140e8847a28b11cca842ffbd49eb"
 metafile = true
 
 [[files]]
@@ -164,6 +265,11 @@ hash = "0527624ddafeb54dee9724eb4f34907ee940f567b92a8f60f39063a7d3b09d8b"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "96f4549a875c31caaf5bbacd9d89df51ecbe13947378e45b92e5211a2798ca86"
+metafile = true
+
+[[files]]
 file = "mods/eclipses-tweakeroo-additions.pw.toml"
 hash = "424b81a3b5b7334385a223c726c734df2a1b31646c15a708c8e964c0266a9752"
 metafile = true
@@ -196,6 +302,15 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "57d378aaacf52e4938645310543db33a5ae1d89029eeeeadbcb939a3fcc36202"
+metafile = true
+
+[[files]]
+file = "mods/fast-turtles-1.0.0.jar"
+hash = "7b40182fdd287c9ef29cb4ac89553f6476b4176626dae55f1ea697391ba5efa1"
+
+[[files]]
+file = "mods/faster-hopper.pw.toml"
+hash = "b3e682bf9a77a71ce25190500be98a3079cd3d0a84120cc89df24913db04500c"
 metafile = true
 
 [[files]]
@@ -276,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/ly-veinminer-enchantment.pw.toml"
 hash = "0dac23fc650834bae3235d9801a22c93dbd0f982169c72465661f2716a50d16f"
+metafile = true
+
+[[files]]
+file = "mods/magnetic-enchantment.pw.toml"
+hash = "b5631f08d12afb6f32b0bd8ea40a9c68403ca35f708ecd73b3a7b57977f97713"
 metafile = true
 
 [[files]]

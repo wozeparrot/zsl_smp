@@ -1,0 +1,13 @@
+name = "Faster Hopper"
+filename = "faster_hopper-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DJ5wrj8M/versions/xMNu96y4/faster_hopper-1.1.0.jar"
+hash-format = "sha512"
+hash = "749a17e71e32f9d194c6f8ab973a8079e4d84b4e258a2c4af71e6a8b7df7e1ddaea97e6450c4aee3b264194be1644e7197466a47cf491e8edd09c5d07eb7839d"
+
+[update]
+[update.modrinth]
+mod-id = "DJ5wrj8M"
+version = "xMNu96y4"
