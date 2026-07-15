@@ -49,7 +49,7 @@ convert_vanilla_anvil_when_interacting = true
 	#Default Value: 0.05
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
-	anvil_break_chance = 0.05
+	anvil_break_chance = 0.01
 	#Solely renaming items in an anvil will never cause the anvil to break.
 	#Default Value: true
 	risk_free_anvil_renaming = true

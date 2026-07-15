@@ -26,7 +26,7 @@ hash = "e466ea969cdb21a3c9caa0986e168270140374223bc99c5e15a18cbb4c67212f"
 
 [[files]]
 file = "config/easyanvils-server.toml"
-hash = "1304476dff561ffa61b7490224a9435fe9024c94f1851a3cda817fa741aea6e5"
+hash = "8628546b2a344837d64aa9a320212ba3485345249cfc2c5b26b6d9681bfa74bb"
 
 [[files]]
 file = "config/easymagic-server.toml"
@@ -91,6 +91,10 @@ hash = "a242119a478d8a69fc142887aa4285e0e90ea27f5d7bfffa57a21c7f67e3c2b7"
 [[files]]
 file = "config/squatgrow-common.json5"
 hash = "a6145ba8de77e2696d2cacfd95e4c61d12bc3d23ee089bf1663be24b520f07d9"
+
+[[files]]
+file = "config/takeitout.json"
+hash = "523d77b13a6edfff4ebf4af85bb26db88389e1955833e2c047b1d5a9de8a9400"
 
 [[files]]
 file = "config/taxfreelevels.json"
@@ -175,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/blaha-replushed.pw.toml"
 hash = "22f36251da77c4b8bcc9572de2b12aff30317637d8321d918264dfbf51e2ce1d"
+metafile = true
+
+[[files]]
+file = "mods/bottle-your-xp.pw.toml"
+hash = "1537082a4214bf4348438235085d616b25ac5b227d88dc8b69ef84af78008497"
 metafile = true
 
 [[files]]
@@ -354,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "5992dc72bc5b304c0632c19ca3caf01fa39f88cb6cb6e02f46034cb27f2b20a8"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "66b9719c77362e3133a532d3190776e4b1749e9495a2577f92bc4595684e4e3a"
 metafile = true
 
 [[files]]
