@@ -60,3 +60,11 @@ carpet protectionEnchantmentCompatible true
 # --- Carpet Extra Extras ---
 carpet setDefault carpetBotsSkipNight true
 carpet carpetBotsSkipNight true
+
+# --- GugleCarpetAddition ---
+carpet setDefault openFakePlayerInventory true
+carpet openFakePlayerInventory true
+carpet setDefault fakePlayerResident true
+carpet fakePlayerResident true
+carpet setDefault fakePlayerLocatorBar false
+carpet fakePlayerLocatorBar false

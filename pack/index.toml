@@ -114,7 +114,7 @@ hash = "bd952428a84006a5b08f82ebe76b688679f02d8ed920a5352f38c308ed3480a5"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/function/load.mcfunction"
-hash = "5cbc350604698afe88965e24a826c813faa2cff5f66d4edc952f5ca093fef70d"
+hash = "711b557c9dbb52aa7c0ebb2a1f67c5e6995c9770c8bbff5a77ddca466579631e"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/data/minecraft/tags/function/load.json"
@@ -185,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/carpet-ams-addition.pw.toml"
 hash = "b88d310171574b0df8e0a26b1704edf29cdc0b9d08b5dfe5aa8577459a1d6ffd"
+metafile = true
+
+[[files]]
+file = "mods/carpet-bot-relog.pw.toml"
+hash = "74773443d064e07ad26d7626cb40f897da3ebe3fd430b64eaabfb885f3ab7210"
 metafile = true
 
 [[files]]
@@ -334,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "71b95730b7f292ff81a5dc19a4830dc7d1fb464be24c92acaccb12ca630f5b15"
+metafile = true
+
+[[files]]
+file = "mods/gca.pw.toml"
+hash = "2b8fd7abcf495e99118d26f829c791e234e45930659f7da19b401e549402ae9a"
 metafile = true
 
 [[files]]
