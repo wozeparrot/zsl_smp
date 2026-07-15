@@ -110,7 +110,7 @@ hash = "d349163ea578c6beb37762f7ec5374766bd4c542f6cc64e8432998f6aebbf019"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "cbbff702fc604ec39254c62c7f44ab9908db507f83653b06d97dc23d04798143"
+hash = "34f2440cbdfe5b550f6c10772088239c9cedc712cd8572ff8f428bdca449e320"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/function/load.mcfunction"
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/anvil-unlimited-1.0.0.jar"
-hash = "24d4afdba41d46a0b3007ec5ae2e1776f477e7fc022408be5d758afb4945fcd7"
+hash = "5e3f96f60a449deeec310c57a5171ae1ab756a7abcdc7a093cc16b3b7c5fe1a5"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
