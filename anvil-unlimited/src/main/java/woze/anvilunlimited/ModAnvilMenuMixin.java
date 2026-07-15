@@ -5,11 +5,8 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
 
-@Mixin(targets = {
-    "net.minecraft.world.inventory.AnvilMenu",
-    "fuzs.easyanvils.world.inventory.state.VanillaAnvilMenu"
-})
-public class AnvilUnlimitedMixin {
+@Mixin(targets = "fuzs.easyanvils.world.inventory.ModAnvilMenu")
+public class ModAnvilMenuMixin {
 
     @Redirect(
         method = "createResult",
