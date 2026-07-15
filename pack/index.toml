@@ -110,7 +110,7 @@ hash = "d349163ea578c6beb37762f7ec5374766bd4c542f6cc64e8432998f6aebbf019"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "36031382f58763822d38fa025ff75f366308a3a95934b4b40e35c3c94a96f783"
+hash = "bd952428a84006a5b08f82ebe76b688679f02d8ed920a5352f38c308ed3480a5"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/function/load.mcfunction"
