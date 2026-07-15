@@ -322,6 +322,11 @@ file = "mods/fast-turtles-1.0.0.jar"
 hash = "38bf67f08641bfc85ef9fd1dee4dc2156dca37b7c4b91bd00ad6978a6da39895"
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "b01528ff95003ddb1a60285ccc3b9fce4267263c398da2708285645926ac945a"
+metafile = true
+
+[[files]]
 file = "mods/faster-hopper.pw.toml"
 hash = "b3e682bf9a77a71ce25190500be98a3079cd3d0a84120cc89df24913db04500c"
 metafile = true
