@@ -517,11 +517,6 @@ hash = "838dc0acc3c1519c5dbfd102b4984cfd3926b6a3b04f4bb8f1d4e3c3a4191416"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "e8e263c9e5b45ef826911470c4b07405012d8f43f77214f59e56690f7731e299"
-metafile = true
-
-[[files]]
 file = "mods/smelting-enchantment.pw.toml"
 hash = "c541f84f31384683ba4eadeddd56aed5e0d1cdd3bc62f3b86ff75b1edf8826ae"
 metafile = true
@@ -614,11 +609,6 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "93e9e9d96cc2aceebf8625a7a893071f81011f54bf14e4ca802f4b41723184c0"
-metafile = true
-
-[[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
 metafile = true
 
 [[files]]
