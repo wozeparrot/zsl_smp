@@ -387,6 +387,11 @@ hash = "a36336b0827fcf7b64e8dd1864fb736ae2c88d93609d9366182635dc7289dd88"
 metafile = true
 
 [[files]]
+file = "mods/litematica-rawmaterials.pw.toml"
+hash = "b9f296b01f04c309c66e8a16a6bde2de2e15a7d70f6bf2f290aa9c142eb307f9"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "a03bc03c304dbf24952d51fb768c85fd227dfc45a8b38dc26d5c8053e54ae168"
 metafile = true
@@ -544,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "d86dfa576bc0989fc0685473a650314b65e39067a95069307990b6f1b7a07573"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "a8cfd56f9a2a99a9b93e05e41decad8c4b245bba7ed0b27a3032e5d6d1a09e23"
 metafile = true
 
 [[files]]

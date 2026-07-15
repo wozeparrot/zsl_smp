@@ -1,0 +1,13 @@
+name = "Litematica RawMaterials"
+filename = "rawmats-fabric-26.2-0.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OWsxlyPe/versions/xP2QKQZH/rawmats-fabric-26.2-0.4.1.jar"
+hash-format = "sha512"
+hash = "f43f0bc60fe6112b6f8a9441849035954f5f7901e524c18bd2548bef46872d9cffaa62f8fb6ecd33769e707965279abc39c3b1d61032361d70b205ab81770619"
+
+[update]
+[update.modrinth]
+mod-id = "OWsxlyPe"
+version = "xP2QKQZH"
