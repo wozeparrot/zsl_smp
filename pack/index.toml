@@ -29,6 +29,10 @@ file = "config/easyanvils-server.toml"
 hash = "9a6cc5b0248c2b04fab1751e44c0ffe4d38549f575e67790651414335ca19cd4"
 
 [[files]]
+file = "config/easymagic-server.toml"
+hash = "27c1b9f33cc30580eef86685ec88da6384266c04181b63dfbf27ecc76cbac5ca"
+
+[[files]]
 file = "config/eclipsestweakeroo-server.json"
 hash = "9f639cb8e8041346b9bf9883921d0611cad0764ca9fab0c05549bc17254f9710"
 
@@ -43,6 +47,10 @@ hash = "e64a7aacc29a1872af8ba6f958946a8384295ec3d403b3e0f3ffe514f9ccb359"
 [[files]]
 file = "config/farmersdelight-common.json"
 hash = "5b3c25e0df91027a19b9f3d40e441dc7490799f71f5179c7d6c45083831fd062"
+
+[[files]]
+file = "config/faster_hopper.json"
+hash = "704e3f929eb76b97ed14f0f89ecee4a80e84756fa6263c3133fd8328999185c9"
 
 [[files]]
 file = "config/global_packs.toml"
