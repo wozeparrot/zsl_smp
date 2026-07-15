@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1d48d612218aa34c193bf26ed6468c6e7372a5501ab30ba0daa0f826483018a6"
+hash = "0929120091edcf4281d0975ff42d8176fc01920ffa8493c5834f8296451bb5f9"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4ab40e685aa3735d0b522fae4f3d65d3cdd9466b059dd1a2fe787abd588cbba9"
+hash = "6f80cb57c59e6168492200c2e5c0fd36fdbacb55dc026699abc3da3bb5faee6d"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "159b583e8e5fa6934327438d3eb072777617bb1862c59f816ae9806e6d53e14b"
+hash = "27ac2b1ff7cae62fec1fcddfee074a9f935a5a47e11d7004ad923501b03f83e6"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "f10e9eaa369a132fe062800b47741d0106e87ef7c8b6a433ef89547d0f35b0de"
+hash = "0319793f18073adb2c2ada215eeaeafdad880349645c387ae4cdc5d21763768e"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "41437a15f56b00994815f2bd2371ac84232cd7a1cc29688fe81480b44a935447"
+hash = "4558d459a64d360ef8954016a272f690b45e74fe8f078388a5a6329e5fa973f6"
 metafile = true
 
 [[files]]
@@ -403,12 +403,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "a03bc03c304dbf24952d51fb768c85fd227dfc45a8b38dc26d5c8053e54ae168"
+hash = "009d9135e8d02bc34226c7451b792421026fd94d40d2da7b10adfe56b50873b5"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d655305d7933a11ed9c0c8edb57868c053b9c995c121c00b47061cf0e098c92a"
+hash = "b7e98520b66f5a11f8a4ad84e518de34d97d1ca84152f3a427d9e7820299fbdd"
 metafile = true
 
 [[files]]
@@ -439,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/more-delight.pw.toml"
 hash = "d6f10b74ff36acbbd50240c01ac43823c146798a01e7b16eda3a5a4be4b50692"
-metafile = true
-
-[[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "ba94a17a0bd27dd4c6eb5b19277dd07125385677b08bd2b1ad576f7e128667ac"
 metafile = true
 
 [[files]]
@@ -488,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b9a63e882013d882c9b63a348c2a8cdc39dba9b5f168612e69d10b2afa148676"
+hash = "c4c31ef7df71b4cef6f3af39364d8b6a1454fe9343a31b98f8d48cff572e4618"
 metafile = true
 
 [[files]]
@@ -567,6 +562,11 @@ hash = "a8cfd56f9a2a99a9b93e05e41decad8c4b245bba7ed0b27a3032e5d6d1a09e23"
 metafile = true
 
 [[files]]
+file = "mods/takeitout.pw.toml"
+hash = "0ef9e911694ed3990fe3dd9bf8ad577ccebf66d9d0184f6bdcd38b90416114a6"
+metafile = true
+
+[[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "808265b6a9effdca0a30721dc99133dd499baa517862aaaee500e464dc48e5f9"
 metafile = true
@@ -623,12 +623,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0657d32dde561e8e4e111414831a5c4e979593b1c581bec6202fefef12cfe657"
+hash = "1d35baac092abcf4afcf683e24b86d4b6aed3b051dbb7ef13be3c41ed7416536"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "cd66e19fc7101a0e42dc76ed488ad24957af39778c74c2c9366c6bf55475e10c"
+hash = "262c3102eace66f798cac2557d1f6844b9edd6eb2ac191aa30deeae6e905f015"
 metafile = true
 
 [[files]]
