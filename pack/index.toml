@@ -26,7 +26,7 @@ hash = "e466ea969cdb21a3c9caa0986e168270140374223bc99c5e15a18cbb4c67212f"
 
 [[files]]
 file = "config/easyanvils-server.toml"
-hash = "9a6cc5b0248c2b04fab1751e44c0ffe4d38549f575e67790651414335ca19cd4"
+hash = "1304476dff561ffa61b7490224a9435fe9024c94f1851a3cda817fa741aea6e5"
 
 [[files]]
 file = "config/easymagic-server.toml"
