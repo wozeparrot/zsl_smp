@@ -26,7 +26,7 @@ convert_vanilla_anvil_when_interacting = true
 	repair_with_other_item_cost = 2
 	#Costs for applying enchantments from enchanted books are halved.
 	#Default Value: true
-	halved_book_costs = true
+	halved_book_costs = false
 	#The additional cost in levels for each valid repair material an item is repaired with.
 	#Default Value: 1
 	# Default: 1
@@ -61,10 +61,10 @@ convert_vanilla_anvil_when_interacting = true
 	#NONE: Penalty is disabled by staying at 0 and does not increase.
 	#Default Value: LIMITED
 	#Allowed Values: NONE, VANILLA, LIMITED
-	prior_work_penalty = "NONE"
+	prior_work_penalty = "LIMITED"
 	#Prevents the prior work penalty from increasing when combining two enchanted books.
 	#Default Value: true
-	penalty_free_enchants_for_books = true
+	penalty_free_enchants_for_books = false
 	#FIXED: When renaming / repairing, ignore any prior work penalty on the item. Makes prior work penalty only relevant when new enchantments are added.
 	#LIMITED: When renaming / repairing cost exceeds max anvil repair cost, limit cost just below max cost.
 	#VANILLA: Renaming / repairing increase with prior work penalty and will no longer be possible when max cost is exceeded.
