@@ -88,10 +88,10 @@ warpRequirements = [
 
 # List of variables used in the warpRequirements configuration.
 warpSettings = [ 
-    "$xp_per_block = 0.01", 
+    "$xp_per_block = 0.02", 
     "$min_xp_cost = 0", 
-    "$max_xp_cost = 27", 
-    "$interdimensional_xp_cost = 27", 
+    "$max_xp_cost = 100", 
+    "$interdimensional_xp_cost = 81", 
     "$inventory_button_cooldown = '300s'"
 ]
 
