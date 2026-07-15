@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/anvil-unlimited-1.0.0.jar"
-hash = "5e3f96f60a449deeec310c57a5171ae1ab756a7abcdc7a093cc16b3b7c5fe1a5"
+hash = "ba3f6393a63d4a8fd7633bb405f1efe315418f213b04bcdac76207fb464b5eb5"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
