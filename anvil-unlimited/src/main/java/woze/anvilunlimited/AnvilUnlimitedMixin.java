@@ -5,6 +5,8 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
+import woze.anvilunlimited.core.AnvilUnlimited;
+
 @Mixin(targets = "fuzs.easyanvils.world.inventory.ModAnvilMenu")
 public class AnvilUnlimitedMixin {
 
