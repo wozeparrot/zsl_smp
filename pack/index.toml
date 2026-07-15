@@ -94,7 +94,7 @@ hash = "a6145ba8de77e2696d2cacfd95e4c61d12bc3d23ee089bf1663be24b520f07d9"
 
 [[files]]
 file = "config/taxfreelevels.json"
-hash = "e88ba0a6886553af4e056750fe9ea9cc26bfd979f2d7ba2f55841cdd2cc1318e"
+hash = "083b1a193cd5769ed68a20576852109085e7715ea6157540c95494a00b90a9da"
 
 [[files]]
 file = "config/toms_storage.json"
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/anvil-unlimited-1.0.0.jar"
-hash = "7e992ae17418b32edab8f9b6b772d563eaf32eb3901b246aba1feb49e9036843"
+hash = "d420737f0a8f0bc4d1548c395ed5b85fe016a0cf7ac31aa63079d9b97d29e723"
 
 [[files]]
 file = "mods/appleskin.pw.toml"

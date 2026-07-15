@@ -4,8 +4,7 @@
   "package": "woze.anvilunlimited",
   "compatibilityLevel": "JAVA_25",
   "mixins": [
-    "AnvilUnlimitedMixin",
-    "ModAnvilMenuMixin"
+    "AnvilUnlimitedMixin"
   ],
   "injectors": {
     "defaultRequire": 1
