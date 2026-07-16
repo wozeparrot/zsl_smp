@@ -121,8 +121,12 @@ file = "global_packs/required_data/carpet_defaults/pack.mcmeta"
 hash = "be0bc367ae85da88c244840670e895af5187585d40124e7b097103c3cae04a83"
 
 [[files]]
-file = "global_packs/required_data/silk_fortune_compatible/data/minecraft/tags/enchantment/inclusive_set/mining.json"
-hash = "eb0994c110a8f37ba1f705bd45585ab3cfb10296786cf7929847dd3d297e69fc"
+file = "global_packs/required_data/silk_fortune_compatible/data/minecraft/tags/enchantment/inclusive_set/fortune.json"
+hash = "d663018bd519d4af66aa7b9335adbb4370b1d5b60f28a8c265394ffcdda37280"
+
+[[files]]
+file = "global_packs/required_data/silk_fortune_compatible/data/minecraft/tags/enchantment/inclusive_set/silk_touch.json"
+hash = "c979af2812df828a3be6f3f7f8b44d25858c59772c6d5452c700406518f69b7d"
 
 [[files]]
 file = "global_packs/required_data/silk_fortune_compatible/pack.mcmeta"
