@@ -89,14 +89,6 @@ file = "config/sci4me/Torcherino.cfg"
 hash = "a242119a478d8a69fc142887aa4285e0e90ea27f5d7bfffa57a21c7f67e3c2b7"
 
 [[files]]
-file = "config/squatgrow-common.json5"
-hash = "a6145ba8de77e2696d2cacfd95e4c61d12bc3d23ee089bf1663be24b520f07d9"
-
-[[files]]
-file = "config/takeitout.json"
-hash = "523d77b13a6edfff4ebf4af85bb26db88389e1955833e2c047b1d5a9de8a9400"
-
-[[files]]
 file = "config/taxfreelevels.json"
 hash = "083b1a193cd5769ed68a20576852109085e7715ea6157540c95494a00b90a9da"
 
@@ -332,7 +324,7 @@ hash = "38bf67f08641bfc85ef9fd1dee4dc2156dca37b7c4b91bd00ad6978a6da39895"
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "b01528ff95003ddb1a60285ccc3b9fce4267263c398da2708285645926ac945a"
+hash = "d33ba5005932f7f59f4a6161aca63ce4a35665ab43e1b5e4e432fdb24509ea5c"
 metafile = true
 
 [[files]]
@@ -506,6 +498,11 @@ hash = "c4c31ef7df71b4cef6f3af39364d8b6a1454fe9343a31b98f8d48cff572e4618"
 metafile = true
 
 [[files]]
+file = "mods/quick-shulker.pw.toml"
+hash = "d622e303931b0ef8be1a859867add412bfb691ba3de318a06a61b30b68bec7aa"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "6f388fd456f4ae36c9a492331edbe8a5e5b5485c9827a949e65e7717ccc80e0f"
 metafile = true
@@ -546,11 +543,6 @@ hash = "a693011f2ae201d579b6a445a6020c1565b37b95f1bb5dd0aa6913a2f665ec7c"
 metafile = true
 
 [[files]]
-file = "mods/squat-grow.pw.toml"
-hash = "596df1fb88e125bf252322d707ac95049a29a0759fd0edc32f586aa04f431fde"
-metafile = true
-
-[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "a175ca70f988a515935804287a4fa3534ce213365587ddb4bc54c9d127e6eda5"
 metafile = true
@@ -573,11 +565,6 @@ metafile = true
 [[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "a8cfd56f9a2a99a9b93e05e41decad8c4b245bba7ed0b27a3032e5d6d1a09e23"
-metafile = true
-
-[[files]]
-file = "mods/takeitout.pw.toml"
-hash = "0ef9e911694ed3990fe3dd9bf8ad577ccebf66d9d0184f6bdcd38b90416114a6"
 metafile = true
 
 [[files]]
