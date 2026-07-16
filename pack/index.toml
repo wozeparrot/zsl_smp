@@ -122,11 +122,15 @@ hash = "be0bc367ae85da88c244840670e895af5187585d40124e7b097103c3cae04a83"
 
 [[files]]
 file = "global_packs/required_data/silk_fortune_compatible/data/minecraft/tags/enchantment/inclusive_set/fortune.json"
-hash = "d663018bd519d4af66aa7b9335adbb4370b1d5b60f28a8c265394ffcdda37280"
+hash = "361d40100f8f7e9013deb8e4b95a7a5f9242f86d1c9dc9556775c2164c8be1ac"
 
 [[files]]
 file = "global_packs/required_data/silk_fortune_compatible/data/minecraft/tags/enchantment/inclusive_set/silk_touch.json"
-hash = "c979af2812df828a3be6f3f7f8b44d25858c59772c6d5452c700406518f69b7d"
+hash = "be2b8ae3ff4c0ad1bd0e6e7a06d8406b35becb38b8d7c9d5510046a091d851b3"
+
+[[files]]
+file = "global_packs/required_data/silk_fortune_compatible/data/smelting_enchantment/tags/enchantment/inclusive_set/smelting.json"
+hash = "0af251f32a9ccd4ac295e551e112a85c5113d644386fe4c09ce2eb47e2b85caa"
 
 [[files]]
 file = "global_packs/required_data/silk_fortune_compatible/pack.mcmeta"

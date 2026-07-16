@@ -1,6 +1,6 @@
 {
   "values": [
     "minecraft:silk_touch",
-    "smelting_enchantment:smelting"
+    "minecraft:fortune"
   ]
 }
