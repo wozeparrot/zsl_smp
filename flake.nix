@@ -22,6 +22,10 @@
           jdk25
           gradle_9
         ];
+
+        shellHook = ''
+          export LD_LIBRARY_PATH="''${LD_LIBRARY_PATH}''${LD_LIBRARY_PATH:+:}${pkgs.libglvnd}/lib"
+        '';
       };
     };
 }

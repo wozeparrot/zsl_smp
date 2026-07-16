@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "toggle-enchants",
+  "version": "${version}",
+  "name": "Toggle Enchants",
+  "description": "Toggle individual enchantments on an item on or off without removing them. Disabled enchantments are preserved and can be re-enabled.",
+  "authors": ["woze"],
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "26.2",
+    "fabric-api": ">=0.154.2+26.2"
+  },
+  "entrypoints": {
+    "main": ["woze.toggleenchants.ToggleEnchants"]
+  },
+  "mixins": [
+    "toggleenchants.mixins.json"
+  ]
+}
