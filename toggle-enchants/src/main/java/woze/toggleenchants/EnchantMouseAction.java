@@ -36,7 +36,6 @@ public class EnchantMouseAction implements ItemSlotMouseAction {
 
     @Override
     public void onStopHovering(Slot slot) {
-        EnchantState.resetSelection();
     }
 
     @Override

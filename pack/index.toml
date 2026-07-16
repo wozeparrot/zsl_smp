@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/toggle-enchants-1.0.0.jar"
-hash = "b12d1202d670c195847777ce3a63e78721a6c9fac0e4cb6c45919886e8f600c0"
+hash = "03ca58a39e8099566038b11e1c7bf51ebb225991d9dde8fdb665072f194e7cf5"
 
 [[files]]
 file = "mods/toms-storage.pw.toml"

@@ -6,7 +6,7 @@
   "description": "Excludes Carpet fake players from Better Days sleep ratio calculations so time acceleration works correctly on servers with fake players.",
   "authors": ["woze"],
   "license": "MIT",
-  "environment": "server",
+  "environment": "*",
   "depends": {
     "fabricloader": ">=0.19.3",
     "minecraft": "26.2",
