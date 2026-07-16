@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays-fake-player-fix-1.0.0.jar"
-hash = "50e5e4ff14a26a23d8c89abb7e191c7d81158e3fb6a35967bb219af64888ae98"
+hash = "9561c1eb65361da568c6d5ae97803b10598b45146073bbf90982bc8243943149"
 
 [[files]]
 file = "mods/betterdays.pw.toml"
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/bottle-your-xp.pw.toml"
-hash = "1537082a4214bf4348438235085d616b25ac5b227d88dc8b69ef84af78008497"
+hash = "b2ccf9b6b50cc5308f112dd3809c73c5648584e0e5a5a7efd608d9a6343b6d91"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-bot-relog.pw.toml"
-hash = "74773443d064e07ad26d7626cb40f897da3ebe3fd430b64eaabfb885f3ab7210"
+hash = "4f5607e008a030190e306248ca00b223d1f1fa056c4f202e4a6e711cd5370565"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "d497e965378f29c5546cb85403af0f3b274e0bfa07f55a5f5a6f51e68f362e29"
+hash = "065eed4e2fd2e5eaf17dad94de72dacc6e339cda19f0d0f65f690476edc3edca"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/crops-love-rain.pw.toml"
-hash = "0fd256b27b9baaa240af790376b852efbced1d357ea8b4bc324aa835d6dcbc58"
+hash = "ce391e588b45abbbd5ae0457fd0af0a8ba4834ca20244685ae54cf99b50e14ab"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/gca.pw.toml"
-hash = "2b8fd7abcf495e99118d26f829c791e234e45930659f7da19b401e549402ae9a"
+hash = "e64406db7168cb9a471c7456a847a3fad047b3794066cdeb984bbb0e6a25953c"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "cc60dc47e6965f1565ffd068b07d09d1e4598e58e941d134eecd668e08905d42"
+hash = "9db79461e4519af592c4d07a0c3a64e55cbd44f6a39d0eb5dd1e968a6ff26646"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "8869f77dfbc37e83dc0d0ea34fcaaa1faf235dff008767a444b68ede8ca7390d"
+hash = "60085f303f62f111c11d5afbe74acf988f8592834c2cb20987c21311c695dd98"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "GugleCarpetAddition"
 filename = "gugle-carpet-addition-v2.12.5+build.91.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/UHjbX5mk/versions/trm436TM/gugle-carpet-addition-v2.12.5%2Bbuild.91.jar"

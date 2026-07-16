@@ -1,6 +1,6 @@
 name = "Carpet Bot Relog"
 filename = "carpetbotrelog-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/J4KVAnML/versions/fOjFNLks/carpetbotrelog-1.0.1.jar"

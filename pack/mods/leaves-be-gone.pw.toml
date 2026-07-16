@@ -1,6 +1,6 @@
 name = "Leaves Be Gone"
 filename = "LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AVq17PqV/versions/5vBSTK0b/LeavesBeGone-v26.2.0-mc26.2.x-Fabric.jar"
