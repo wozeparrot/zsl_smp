@@ -59,10 +59,6 @@ carpet damageEnchantmentCompatible true
 carpet setDefault protectionEnchantmentCompatible true
 carpet protectionEnchantmentCompatible true
 
-# --- Carpet Extra Extras ---
-carpet setDefault carpetBotsSkipNight true
-carpet carpetBotsSkipNight true
-
 # --- GugleCarpetAddition ---
 carpet setDefault openFakePlayerInventory true
 carpet openFakePlayerInventory true
