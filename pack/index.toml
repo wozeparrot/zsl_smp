@@ -110,7 +110,7 @@ hash = "bd952428a84006a5b08f82ebe76b688679f02d8ed920a5352f38c308ed3480a5"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/data/carpet_defaults/function/load.mcfunction"
-hash = "711b557c9dbb52aa7c0ebb2a1f67c5e6995c9770c8bbff5a77ddca466579631e"
+hash = "c8cf3e12c8df7a7d825df2f193a27fe203ac907f9d565d74c7f23f82e961c625"
 
 [[files]]
 file = "global_packs/required_data/carpet_defaults/data/minecraft/tags/function/load.json"

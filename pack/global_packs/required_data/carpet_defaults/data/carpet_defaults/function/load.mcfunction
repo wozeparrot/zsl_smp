@@ -5,6 +5,8 @@
 # --- Carpet (base) ---
 carpet setDefault commandPlayer true
 carpet commandPlayer true
+carpet setDefault antiCheatDisabled true
+carpet antiCheatDisabled true
 
 # --- Carpet Extra ---
 carpet setDefault accurateBlockPlacement true
